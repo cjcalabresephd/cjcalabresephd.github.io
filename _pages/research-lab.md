@@ -4,18 +4,18 @@ permalink: /research-lab/
 layout: single
 ---
 
-## Our Research Lab
+## Health Communication and Digital Innovation Research Group
 
-Welcome to the Health Communication and Digital Innovations Research Group! Our research focuses on understanding the effects and processes 
+Welcome to the Health Communication and Digital Innovation Research Group! Our research focuses on understanding the effects and processes 
 through which media messaging and persuasive technologies influence human behaviors, particularly in the context of health.
 
 ---
 
-{% assign roles = "Faculty,Collaborator,PhD Student,Masters Student,Undergraduate Researcher" | split: "," %}
+{% assign roles = "Faculty,Collaborator,Masters Student" | split: "," %}
 
 {% for role in roles %}
 
-## {{ role }}s
+## {{ role }}
 
 <div class="lab-grid">
 
