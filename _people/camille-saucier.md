@@ -4,6 +4,7 @@ name: Camille Saucier, PhD
 lastname: Saucier
 role: Faculty Collaborator
 affiliation: Clemson University
+image: /images/lab/camillesaucier.jpg
 scholar: https://scholar.google.com/citations?user=6iM4K68AAAAJ&hl=en
 website: https://www.camillesaucier.com/
 alumni: false
