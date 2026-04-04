@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "CJ Calabrese"
 title_separator          : "-"
 name                     : &name "CJ Calabrese"
-description              : &description "CJ Calabrese's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "CJ Calabrese's Academic Website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://cjcalabresephd.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cjcalabresephd/cjcalabresephd.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "CJ Calabrese"
   pronouns         : # example: "she/her"  
-  bio              : "Health communication, persuasive technologies, and behavior change."
-  location         : "Clemson, South Carolina"
+  bio              : "Assistant Professor of Communication | Health communication, persuasive technologies, and behavior change."
+  location         : # Clemson, South Carolina
   employer         : "Clemson University"
   uri              : # URL
   email            : "cgcalab@clemson.edu" 
