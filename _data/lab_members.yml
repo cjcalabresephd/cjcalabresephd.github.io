@@ -1,0 +1,19 @@
+- name: CJ Calabrese
+  role: Lab Director
+  image: /images/lab/cjcalabrese.jpg
+  bio: Dr. Calabrese's research examines the effects and processes through which media messaging and online technologies influence human behaviors and decision-making. 
+
+- name: Kylie Friday
+  role: Masters Student
+  image: /images/lab/kyliefriday.jpg
+  bio: Kylie is primarily interested in examining strategies to address medical mistrust.
+
+- name: Kamila Eshalieva 
+  role: Masters Student
+  image: /images/lab/kamilaeshalieva.jpg
+  bio: Kamila's research interests focus on addressing gender-based violence.
+
+- name: Jayveeritz Bautista, PhD 
+  role: Collaborator
+  image: /images/lab/jayveeritzbautista.jpg
+  bio: Dr. Bautista's research focuses on investigating the health effects of exposure to toxic air pollutants. 
