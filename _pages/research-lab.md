@@ -14,7 +14,12 @@ through which media messaging and persuasive technologies influence human behavi
 ## Lab Members
 
 {% for member in site.data.lab_members %}
+
 ### {{ member.name }}
+
+{% if member.image %}
+<img src="{{ member.image }}" width="150">
+{% endif %}
 
 **Role:** {{ member.role }}
 
