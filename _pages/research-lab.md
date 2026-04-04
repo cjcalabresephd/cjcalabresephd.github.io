@@ -4,10 +4,7 @@ permalink: /research-lab/
 layout: single
 ---
 
-# Health Communication and Digital Innovation Research Group
-
-Welcome to the Health Communication and Digital Innovation Research Group!  
-Our research focuses on understanding how media messaging and persuasive technologies influence human behaviors, particularly in the context of health.
+Welcome to the Health Communication and Digital Innovation Research Group! Our research focuses on understanding how media messaging and persuasive technologies influence human behaviors, particularly in the context of health.
 
 ---
 
