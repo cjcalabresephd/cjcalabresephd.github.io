@@ -15,3 +15,23 @@ layout: single
 Dr. Ash's research focuses on the role of media in public perceptions of social issues, as well as examining attitudes towards health-related behaviors and policies, particularly related to reproductive health.
 
 Dr. Erin Ash is an Associate Professor in the Department of Communication. She is a Faculty Scholar in the Clemson University School of Health Research (CUSHR) and an Embedded Faculty Scholar within the South Carolina Department of Public Health. Her research focuses on the role of media in public perceptions of social issues. Most recently, her work has examined attitudes towards health-related behaviors and policies, particularly those related to reproductive health.
+
+
+
+## Publications
+
+{% assign mypubs = site.publications 
+   | where_exp:"item","item.authors contains 'erin-ash'" %}
+
+### Journal Articles
+
+{% assign journal = mypubs 
+   | where:"category","journal" 
+   | sort:"date" 
+   | reverse %}
+
+{% for post in journal %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
