@@ -13,3 +13,23 @@ layout: single
 ---
 
 Dr. Saucier's research broadly focuses on media psychology, message processing, and media effects. Her work emphasizes developing person-centered communications that promote openness to accurate information and build resilience against harmful online content and social engineering. To achieve these goals, she applies concepts involving self-affirmation, motivated reasoning, and parasocial relationships to enhance message receptivity.
+
+
+
+## Publications
+
+{% assign mypubs = site.publications 
+   | where_exp:"item","item.authors contains 'camille-saucier'" %}
+
+### Journal Articles
+
+{% assign journal = mypubs 
+   | where:"category","journal" 
+   | sort:"date" 
+   | reverse %}
+
+{% for post in journal %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
