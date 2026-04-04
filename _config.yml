@@ -23,10 +23,10 @@ repository               : "cjcalabresephd/cjcalabresephd.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "CJ Calabrese"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "South Carolina | California"
+  bio              : "Health communication, persuasive technologies, and behavior change."
+  location         : "Clemson, South Carolina"
   employer         : "Clemson University"
   uri              : # URL
   email            : "cgcalab@clemson.edu" 
@@ -49,7 +49,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # bsky.app Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -76,8 +76,7 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+
   manuscripts:
     title: 'Journal Articles'    
   conferences:
