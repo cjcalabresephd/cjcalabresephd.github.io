@@ -306,10 +306,13 @@ plugins:
   - jemoji
   - jekyll-scholar
 
-  scholar:
-  style: apa
-  source: ./_bibliography
+scholar:
+  style: apa                   # citation style
+  source: ./_bibliography      # folder containing BibTeX files
   bibliography: publications.bib
+  sort_by: year                # sort publications by year
+  order: descending
+  default_lang: en
 
 # Mimic GitHub Pages with --safe
 whitelist:
