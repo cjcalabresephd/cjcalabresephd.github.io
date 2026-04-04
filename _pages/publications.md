@@ -7,8 +7,25 @@ author_profile: true
 
 ## Journal Articles
 
-{% assign pubs = site.publications | where:"category","journal" %}
-{% for post in pubs %}
+{% assign journal = site.publications 
+  | where: "category", "journal" 
+  | sort: "date" 
+  | reverse %}
+
+{% for post in journal %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+
+## Articles in Review
+
+{% assign review = site.publications 
+  | where: "category", "review" 
+  | sort: "date" 
+  | reverse %}
+
+{% for post in review %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -16,9 +33,11 @@ author_profile: true
 
 ## Articles in Progress
 
-{% assign pubs = site.publications | where:"category","inprogress" %}
-{% for post in pubs %}
+{% assign progress = site.publications 
+  | where: "category", "inprogress" 
+  | sort: "date" 
+  | reverse %}
+
+{% for post in progress %}
   {% include archive-single.html %}
-{% endfor %} 
-
-
+{% endfor %}
