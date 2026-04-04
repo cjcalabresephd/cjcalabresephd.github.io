@@ -63,7 +63,7 @@ through which media messaging and persuasive technologies influence human behavi
 
 ---
 
-< ## Alumni >
+## Alumni 
 
 <div class="lab-grid">
 
