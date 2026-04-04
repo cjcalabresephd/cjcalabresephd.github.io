@@ -1,0 +1,25 @@
+.publication-card {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5em;
+  border: 1px solid #eee;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.pub-thumb {
+  width: 120px;
+  height: auto;
+  margin-right: 15px;
+  border-radius: 4px;
+}
+
+.pub-info {
+  flex: 1;
+}
+
+.abstract {
+  font-style: italic;
+  margin-top: 5px;
+  color: #555;
+}
