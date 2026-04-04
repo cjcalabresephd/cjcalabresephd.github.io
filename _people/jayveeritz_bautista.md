@@ -1,6 +1,7 @@
 ---
 
 name: Jayveeritz Bautista
+lastname: Bautista
 role: External Collaborator
 affiliation: University of California, Irvine
 image: /images/lab/jayveeritzbautista.jpg
