@@ -19,7 +19,42 @@ He is an Assistant Professor in the Department of Communication at Clemson Unive
 
 ## Publications
 
-{% assign pubs = site.publications | where_exp:"item","item.authors contains 'cj-calabrese'" %}
-{% for post in pubs %}
+{% assign mypubs = site.publications 
+   | where_exp:"item","item.authors contains 'cj-calabrese'" %}
+
+### Journal Articles
+
+{% assign journal = mypubs 
+   | where:"category","journal" 
+   | sort:"date" 
+   | reverse %}
+
+{% for post in journal %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+
+### Articles in Review
+
+{% assign review = mypubs 
+   | where:"category","review" 
+   | sort:"date" 
+   | reverse %}
+
+{% for post in review %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+
+### Articles in Progress
+
+{% assign progress = mypubs 
+   | where:"category","inprogress" 
+   | sort:"date" 
+   | reverse %}
+
+{% for post in progress %}
   {% include archive-single.html %}
 {% endfor %}
