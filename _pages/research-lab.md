@@ -4,21 +4,18 @@ permalink: /research-lab/
 layout: single
 ---
 
-## Lab Photo
-
 ![Lab Photo](/images/lab/lab-photo.jpg)
 
-
-Welcome to the **Health Communication and Digital Innovation Research Group** at Clemson University!  
-Our research focuses on understanding how media messaging and persuasive technologies influence human behaviors, particularly in the context of health.
+Welcome to the **Health Communication and Digital Innovation Research Group** at Clemson University! Our research focuses on understanding how media messaging and persuasive technologies influence human behaviors, particularly in the context of health.
 
 ---
 
 ## Research Areas
 
-- Digital health interventions
+- Online health interventions
 - Media effects and persuasion
 - Health misinformation
+- Persuasive technologies
 - AI and health communication
 
 ---
