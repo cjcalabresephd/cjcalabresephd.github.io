@@ -1,7 +1,7 @@
 ---
 
 name: CJ Calabrese
-lastname: Calabrese
+lastname: A Calabrese
 role: Faculty Collaborator
 affiliation: Clemson University
 image: /images/lab/cjcalabrese.jpg
