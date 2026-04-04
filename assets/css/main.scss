@@ -41,3 +41,48 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.lab-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.lab-card {
+  text-align: center;
+  padding: 18px;
+  border-radius: 12px;
+  background: #ffffff;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+}
+
+.lab-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 18px rgba(0,0,0,0.15);
+}
+
+.lab-card img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.lab-role {
+  font-weight: 600;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.lab-links a {
+  margin: 0 6px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.lab-links a:hover {
+  opacity: 0.6;
+}
