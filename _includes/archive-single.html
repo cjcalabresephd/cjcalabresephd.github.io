@@ -102,3 +102,27 @@
 {% endfor %}
 </p>
 {% endif %}
+
+
+<p>
+
+{% if post.pdf %}
+<a href="{{post.pdf}}">
+<i class="fas fa-file-pdf"></i> PDF
+</a>
+{% endif %}
+
+{% if post.arxiv %}
+<a href="{{post.arxiv}}">
+<i class="ai ai-arxiv"></i> arXiv
+</a>
+{% endif %}
+
+{% if post.scholar %}
+<a href="{{post.scholar}}">
+<i class="ai ai-google-scholar"></i> Scholar
+</a>
+{% endif %}
+
+</p>
+
