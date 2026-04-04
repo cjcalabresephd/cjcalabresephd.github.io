@@ -2,7 +2,7 @@
 
 name: Kamila Eshalieva 
 lastname: Eshalieva
-role: Master Student
+role: Masters Student
 affiliation: Clemson University
 image: /images/lab/kamilaeshalieva.jpg
 alumni: false
