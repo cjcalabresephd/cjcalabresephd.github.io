@@ -19,6 +19,6 @@ author_profile: true
 {% assign pubs = site.publications | where:"category","inprogress" %}
 {% for post in pubs %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} 
 
 
