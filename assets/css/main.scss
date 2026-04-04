@@ -42,16 +42,12 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ===== LAB MEMBER GRID ===== */
-
 .lab-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 30px;
   margin-top: 20px;
 }
-
-/* ===== MEMBER CARD ===== */
 
 .lab-card {
   background: #ffffff;
@@ -67,8 +63,6 @@
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 
-/* ===== PROFILE PHOTO ===== */
-
 .lab-card img {
   width: 140px;
   height: 140px;
@@ -77,22 +71,15 @@
   margin-bottom: 15px;
 }
 
-/* ===== NAME ===== */
-
 .lab-card h3 {
   margin: 10px 0 5px 0;
   font-size: 1.2em;
 }
 
-/* ===== ROLE ===== */
-
 .lab-role {
   font-weight: 600;
   color: #444;
-  margin-bottom: 2px;
 }
-
-/* ===== AFFILIATION ===== */
 
 .lab-affiliation {
   font-style: italic;
@@ -101,14 +88,10 @@
   margin-bottom: 10px;
 }
 
-/* ===== BIO ===== */
-
 .lab-card p {
   font-size: 0.9em;
   line-height: 1.4em;
 }
-
-/* ===== LINKS ===== */
 
 .lab-links {
   margin-top: 10px;
