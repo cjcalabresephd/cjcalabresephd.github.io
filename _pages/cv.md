@@ -4,8 +4,6 @@ permalink: /cv/
 layout: single
 ---
 
-# Curriculum Vitae
-
 You can view or download my CV below:
 
 <!-- Direct link -->
