@@ -19,7 +19,7 @@ Dr. Oh specializes in artificial intelligence (AI) dialogue systems, commonly re
 ## Publications
 
 {% assign mypubs = site.publications 
-   | where_exp:"item","item.authors contains 'muhammad-rasul'" %}
+   | where_exp:"item","item.authors contains 'erika-oh'" %}
 
 ### Journal Articles
 
