@@ -13,3 +13,23 @@ layout: single
 ---
 
 Dr. Oh specializes in artificial intelligence (AI) dialogue systems, commonly referred to as AI chatbots.
+
+
+
+## Publications
+
+{% assign mypubs = site.publications 
+   | where_exp:"item","item.authors contains 'muhammad-rasul'" %}
+
+### Journal Articles
+
+{% assign journal = mypubs 
+   | where:"category","journal" 
+   | sort:"date" 
+   | reverse %}
+
+{% for post in journal %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
