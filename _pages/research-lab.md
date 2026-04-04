@@ -22,7 +22,8 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
 
 <div class="lab-grid">
 
-{% for person in site.people %}
+{% assign sorted_people = site.people | sort: "lastname" %}
+{% for person in sorted_people %}
 {% if person.role == role and person.alumni != true %}
 
 <div class="lab-card">
@@ -76,7 +77,8 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
 
 <div class="lab-grid">
 
-{% for person in site.people %}
+{% assign sorted_people = site.people | sort: "lastname" %}
+{% for person in sorted_people %}
 {% if person.alumni == true %}
 
 <div class="lab-card">
