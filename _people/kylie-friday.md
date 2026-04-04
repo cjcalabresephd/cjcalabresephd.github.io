@@ -1,6 +1,6 @@
 ---
 
-name: Kylie
+name: Kylie Friday
 lastname: Friday
 role: Masters Student
 affiliation: Clemson University
