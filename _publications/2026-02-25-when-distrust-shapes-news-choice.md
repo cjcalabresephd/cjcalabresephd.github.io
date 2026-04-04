@@ -12,7 +12,7 @@ authors:
  - moonsun-jeon
  - heejung-cho
  - cj-calabrese
-venue: 'Cyberpsychology, Behavior, and Social Networking'
+venue: "Cyberpsychology, Behavior, and Social Networking"
 citation: 'Rasul, M. E., Oh, Y. J., Moonsun, J., Cho, H. J., & Calabrese, C. (2026). When Distrust Shapes News Choice: Perceptions of Mis- and Disinformation and News Consumption Across Traditional and Social Media Outlets. <i>Cyberpsychology, Behavior, and Social Networking</i>, <i>29</i>(3), 151-158. <a href="https://doi.org/10.1177/21522715261424695" target="_blank">https://doi.org/10.1177/21522715261424695</a>
 
 ---
