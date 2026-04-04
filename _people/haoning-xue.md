@@ -15,3 +15,22 @@ layout: single
 Dr. Xue leverages computational and experimental approaches to understand how people seek, process, and evaluate information in the emerging technology-mediated environments.
 
 She is an Assistant Professor in the Department of Communication at the University of Utah. Dr. Xue uses computational and experimental research focuses on how people seek, process, and evaluate information in the emerging technology-mediated environments. Her work has been published in leading communication journals, and she has received the ICA/NCA Health Communication Division Dissertation Award and multiple best paper awards. Dr. Xue's research has been supported by the National Science Foundation, Google Cloud, and multiple internal funding programs.
+
+
+## Publications
+
+{% assign mypubs = site.publications 
+   | where_exp:"item","item.authors contains 'haoning-xue'" %}
+
+### Journal Articles
+
+{% assign journal = mypubs 
+   | where:"category","journal" 
+   | sort:"date" 
+   | reverse %}
+
+{% for post in journal %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
