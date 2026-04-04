@@ -1,6 +1,6 @@
 ---
 title: "Research Lab"
-permalink: /lab/
+permalink: /research-lab/
 layout: single
 ---
 
