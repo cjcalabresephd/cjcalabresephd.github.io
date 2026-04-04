@@ -1,6 +1,6 @@
 ---
 
-name: Jayveeritz Bautista
+name: Jayveeritz Bautista, PhD
 lastname: Bautista
 role: External Collaborator
 affiliation: University of California, Irvine
