@@ -4,7 +4,7 @@ collection: publications
 category: Journal Articles
 permalink: /publication/leveraging-ai-chatbots
 excerpt: 'We examined whether bypassing and combined (correction with bypassing) strategies delivered through artificial intelligence (AI) chatbots can address contraceptive misinformation. In Study 1, we found through observational reddit data that bypassing, correction, and combined strategies were present in online discussions and were more engaging than other responses. In Study 2, an experiment employing AI chatbots found that the combined strategy improved recommendation intentions compared with the control conditions, while also reducing beliefs in misinformation. The combined strategy AI chatbot was viewed as warmer and more competent than the correction, invoking less reactance and increasing recommendation intentions. Practical and theoretical implications are discussed.'
-date: 2026-02-15
+date: 2026
 venue: 'Science Communication'
 authors:
  - cj-calabrese
