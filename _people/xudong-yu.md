@@ -1,6 +1,6 @@
 ---
 
-name: Xudong Yu
+name: Xudong Yu, PhD
 lastname: Yu
 role: External Collaborator
 affiliation: University of North Dakota
