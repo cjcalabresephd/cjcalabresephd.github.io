@@ -19,7 +19,7 @@ He is an Assistant Professor in the Department of Communication at Clemson Unive
 
 ## Publications
 
-{% assign pubs = site.publications | where_exp:"item","item.authors contains 'smith'" %}
+{% assign pubs = site.publications | where_exp:"item","item.authors contains 'cj-calabrese'" %}
 {% for post in pubs %}
   {% include archive-single.html %}
 {% endfor %}
