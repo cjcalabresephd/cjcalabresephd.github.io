@@ -314,7 +314,15 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+plugins:
+  - jekyll-scholar
 
+  scholar:
+  style: apa
+  source: ./_bibliography
+  bibliography: publications.bib
+
+  
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
