@@ -6,7 +6,7 @@ role: External Collaborator
 affiliation: Cornell University
 image: /images/lab/emmacox.jpg
 scholar: https://scholar.google.com/citations?user=iHTKCOsAAAAJ&hl=en
-website: https://cals.cornell.edu/people/emma-cox
+website: https://cals.cornell.edu/people/emma-cox 
 alumni: true
 layout: single
 
