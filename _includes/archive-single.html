@@ -82,3 +82,23 @@
 
   </article>
 </div>
+
+{% if post.authors %}
+<p class="archive__item-authors">
+{% for author in post.authors %}
+
+  {% assign person = site.people | where:"slug",author | first %}
+
+  {% if author == "yourname" %}
+    <strong>
+      <a href="/people/{{author}}/">{{ person.title }}</a>
+    </strong>
+  {% else %}
+    <a href="/people/{{author}}/">{{ person.title }}</a>
+  {% endif %}
+
+  {% unless forloop.last %}, {% endunless %}
+
+{% endfor %}
+</p>
+{% endif %}
