@@ -1,5 +1,6 @@
 - name: CJ Calabrese
   role: Faculty
+  affiliation: Clemson University
   image: /images/lab/cjcalabrese.jpg
   bio: Dr. Calabrese is the Director of the Health Communication and Digital Innovation Research Group. 
   website: https://www.cjcalabrese.com
@@ -7,6 +8,7 @@
 
 - name: Jayveeritz Bautista, PhD 
   role: External Collaborator
+  affiliation: University of California, Irvine
   image: /images/lab/jayveeritzbautista.jpg
   bio: Dr. Bautista's research focuses on investigating the health effects of exposure to toxic air pollutants.
   website: https://www.jayveeritz.com
@@ -14,6 +16,7 @@
 
 - name: Yoo Jung (Erika) Oh, PhD 
   role: External Collaborator
+  affiliation: Michigan State University
   image: /images/lab/erikaoh.jpg
   bio: Dr. Oh specializes in artificial intelligence (AI) dialogue systems, commonly referred to as AI chatbots.
   website: https://comartsci.msu.edu/our-people/yoo-jung-erika-oh
@@ -21,12 +24,14 @@
 
 - name: Muhammad Ehab Rasul, PhD 
   role: External Collaborator
+  affiliation: National University of Singapore
   image: /images/lab/muhammadrasul.jpg
   bio: Dr. Rasul's research lies at the intersection of digital and new media, political communication, mis/disinformation, and media effects.
   scholar: https://scholar.google.com/citations?user=cuvLPmQAAAAJ&hl=en
 
 - name: Xudong Yu, PhD 
   role: External Collaborator
+  affiliation: University of North Dakota
   image: /images/lab/xudongyu.jpg
   bio: Dr. Yu's research delves into the influence of new technologies on democracies, employing both experimental and computational approaches.
   website: https://campus.und.edu/directory/xudong.yu
@@ -34,18 +39,22 @@
   
 - name: Kylie Friday
   role: Masters Student
+  affiliation: Clemson University
   image: /images/lab/kyliefriday.jpg
   bio: Kylie is primarily interested in examining strategies to address medical mistrust.
 
 - name: Kamila Eshalieva 
   role: Masters Student
+  affiliation: Clemson University
   image: /images/lab/kamilaeshalieva.jpg
   bio: Kamila's research interests focus on addressing gender-based violence.
   
 - name: Emma G. Cox
-  role: Masters Student
+  affiliation: Cornell University
   image: /images/lab/emmacox.jpg
   bio: Emma is a PhD student at Cornell University focusing on media effects, persuasion, and health communication.
+  website: https://cals.cornell.edu/people/emma-cox
+  scholar: https://scholar.google.com/citations?user=iHTKCOsAAAAJ&hl=en
   alumni: true
 
   
