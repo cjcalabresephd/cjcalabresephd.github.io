@@ -8,11 +8,11 @@ Welcome to the Health Communication and Digital Innovation Research Group at Cle
 
 ---
 
-{% assign roles = "Faculty,Masters Student,External Collaborator" | split: "," %}
+{% assign roles = "Faculty,External Collaborator,Masters Student" | split: "," %}
 
 {% for role in roles %}
 
-## {{ role }}
+## {{ role }}s
 
 <div class="lab-grid">
   {% for member in site.data.lab_members %}
@@ -24,10 +24,10 @@ Welcome to the Health Communication and Digital Innovation Research Group at Cle
         <p>{{ member.bio }}</p>
 
         <div class="lab-links">
-          {% if member.website %}<a href="{{ member.website }}">🌐</a>{% endif %}
-          {% if member.scholar %}<a href="{{ member.scholar }}">🎓</a>{% endif %}
-          {% if member.github %}<a href="https://github.com/{{ member.github }}">💻</a>{% endif %}
-          {% if member.email %}<a href="mailto:{{ member.email }}">✉️</a>{% endif %}
+          {% if member.website %}<a href="{{ member.website }}" target="_blank">🌐</a>{% endif %}
+          {% if member.scholar %}<a href="{{ member.scholar }}" target="_blank">🎓</a>{% endif %}
+          {% if member.github %}<a href="https://github.com/{{ member.github }}" target="_blank">💻</a>{% endif %}
+          {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank">✉️</a>{% endif %}
         </div>
       </div>
     {% endif %}
@@ -50,10 +50,10 @@ Welcome to the Health Communication and Digital Innovation Research Group at Cle
         <p>{{ member.bio }}</p>
 
         <div class="lab-links">
-          {% if member.website %}<a href="{{ member.website }}">🌐</a>{% endif %}
-          {% if member.scholar %}<a href="{{ member.scholar }}">🎓</a>{% endif %}
-          {% if member.github %}<a href="https://github.com/{{ member.github }}">💻</a>{% endif %}
-          {% if member.email %}<a href="mailto:{{ member.email }}">✉️</a>{% endif %}
+          {% if member.website %}<a href="{{ member.website }}" target="_blank">🌐</a>{% endif %}
+          {% if member.scholar %}<a href="{{ member.scholar }}" target="_blank">🎓</a>{% endif %}
+          {% if member.github %}<a href="https://github.com/{{ member.github }}" target="_blank">💻</a>{% endif %}
+          {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank">✉️</a>{% endif %}
         </div>
       </div>
     {% endif %}
