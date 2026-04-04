@@ -304,14 +304,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-scholar
 
-scholar:
-  style: apa
-  source: ./_bibliography
-  bibliography: publications.bib
-  sort_by: year
-  order: descending
 
 # Mimic GitHub Pages with --safe
 whitelist:
@@ -321,8 +314,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-scholar
-
   
 # Archives
 #  Type
