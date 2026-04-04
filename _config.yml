@@ -13,7 +13,7 @@ title                    : "CJ Calabrese"
 title_separator          : "-"
 name                     : &name "CJ Calabrese"
 description              : &description "CJ Calabrese's Academic Website"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://cjcalabresephd.github.io"
+url                      : "https://www.cjcalabrese.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cjcalabresephd/cjcalabresephd.github.io"
 
