@@ -47,14 +47,3 @@ He is an Assistant Professor in the Department of Communication at Clemson Unive
 {% endfor %}
 
 ---
-
-### Articles in Progress
-
-{% assign progress = mypubs 
-   | where:"category","inprogress" 
-   | sort:"date" 
-   | reverse %}
-
-{% for post in progress %}
-  {% include archive-single.html %}
-{% endfor %}
