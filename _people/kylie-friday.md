@@ -2,7 +2,7 @@
 
 name: Kylie
 lastname: Friday
-role: Master Student
+role: Masters Student
 affiliation: Clemson University
 image: /images/lab/kyliefriday.jpg
 alumni: false
