@@ -4,27 +4,7 @@ permalink: /research-lab/
 layout: single
 ---
 
-![Lab Photo](/images/lab/lab-photo.jpg)
-
-Welcome to the **Health Communication and Digital Innovation Research Group** at Clemson University! Our research focuses on understanding how media messaging and persuasive technologies influence human behaviors, particularly in the context of health.
-
----
-
-## Research Areas
-
-- Online health interventions
-- Media effects and persuasion
-- Health misinformation
-- Persuasive technologies
-- AI and health communication
-
----
-
-## Join the Lab
-
-We are always interested in working with motivated undergraduate and graduate students interested in digital health, media effects, and persuasive technologies.
-
-Prospective students can email **cgcalab@clemson.edu** with a CV and statement of research interests.
+Welcome to the **Health Communication and Digital Innovation Research Group** at Clemson University. Our research focuses on how media messaging and persuasive technologies influence human behavior, particularly in health contexts.
 
 ---
 
@@ -38,34 +18,47 @@ Prospective students can email **cgcalab@clemson.edu** with a CV and statement o
 ## External Collaborators
 {% elsif role == "Masters Student" %}
 ## Master's Students
-{% else %}
-## {{ role }}s
 {% endif %}
 
 <div class="lab-grid">
 
-{% for member in site.data.lab_members %}
-{% if member.role == role and member.alumni != true %}
+{% for person in site.people %}
+{% if person.role == role and person.alumni != true %}
 
 <div class="lab-card">
 
-<img src="{{ member.image }}" alt="{{ member.name }}">
+<a href="{{ person.url }}">
+<img src="{{ person.image }}" alt="{{ person.name }}">
+</a>
 
-<h3>{{ member.name }}</h3>
+<h3><a href="{{ person.url }}">{{ person.name }}</a></h3>
 
-<p class="lab-role">{{ member.role }}</p>
+<p class="lab-role">{{ person.role }}</p>
 
-{% if member.affiliation %}
-<p class="lab-affiliation">{{ member.affiliation }}</p>
+{% if person.affiliation %}
+<p class="lab-affiliation">{{ person.affiliation }}</p>
 {% endif %}
 
-<p>{{ member.bio }}</p>
+<p>{{ person.content | strip_html | truncate: 120 }}</p>
 
 <div class="lab-links">
-{% if member.website %}<a href="{{ member.website }}" target="_blank">🌐</a>{% endif %}
-{% if member.scholar %}<a href="{{ member.scholar }}" target="_blank">🎓</a>{% endif %}
-{% if member.github %}<a href="https://github.com/{{ member.github }}" target="_blank">💻</a>{% endif %}
-{% if member.email %}<a href="mailto:{{ member.email }}">✉️</a>{% endif %}
+
+{% if person.website %}
+<a href="{{ person.website }}" target="_blank"><i class="fas fa-globe"></i></a>
+{% endif %}
+
+{% if person.scholar %}
+<a href="{{ person.scholar }}" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+{% endif %}
+
+{% if person.github %}
+<a href="https://github.com/{{ person.github }}" target="_blank"><i class="fab fa-github"></i></a>
+{% endif %}
+
+{% if person.email %}
+<a href="mailto:{{ person.email }}"><i class="fas fa-envelope"></i></a>
+{% endif %}
+
 </div>
 
 </div>
@@ -83,29 +76,24 @@ Prospective students can email **cgcalab@clemson.edu** with a CV and statement o
 
 <div class="lab-grid">
 
-{% for member in site.data.lab_members %}
-{% if member.alumni %}
+{% for person in site.people %}
+{% if person.alumni == true %}
 
 <div class="lab-card">
 
-<img src="{{ member.image }}" alt="{{ member.name }}">
+<a href="{{ person.url }}">
+<img src="{{ person.image }}" alt="{{ person.name }}">
+</a>
 
-<h3>{{ member.name }}</h3>
+<h3><a href="{{ person.url }}">{{ person.name }}</a></h3>
 
-<p class="lab-role">{{ member.role }}</p>
+<p class="lab-role">{{ person.role }}</p>
 
-{% if member.affiliation %}
-<p class="lab-affiliation">{{ member.affiliation }}</p>
+{% if person.affiliation %}
+<p class="lab-affiliation">{{ person.affiliation }}</p>
 {% endif %}
 
-<p>{{ member.bio }}</p>
-
-<div class="lab-links">
-{% if member.website %}<a href="{{ member.website }}" target="_blank">🌐</a>{% endif %}
-{% if member.scholar %}<a href="{{ member.scholar }}" target="_blank">🎓</a>{% endif %}
-{% if member.github %}<a href="https://github.com/{{ member.github }}" target="_blank">💻</a>{% endif %}
-{% if member.email %}<a href="mailto:{{ member.email }}">✉️</a>{% endif %}
-</div>
+<p>{{ person.content | strip_html | truncate: 120 }}</p>
 
 </div>
 
