@@ -42,6 +42,10 @@
     "vendor/font-awesome/brands"
 ;
 
+/* ===============================
+   LAB MEMBER GRID
+================================ */
+
 .lab-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -49,12 +53,16 @@
   margin-top: 20px;
 }
 
+/* ===============================
+   MEMBER CARD
+================================ */
+
 .lab-card {
-  background: #ffffff;
+  background: var(--global-bg-color);
   border-radius: 10px;
   padding: 20px;
   text-align: center;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+  border: 1px solid var(--global-border-color);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
@@ -62,6 +70,10 @@
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
+
+/* ===============================
+   PROFILE PHOTO
+================================ */
 
 .lab-card img {
   width: 140px;
@@ -71,27 +83,47 @@
   margin-bottom: 15px;
 }
 
+/* ===============================
+   NAME
+================================ */
+
 .lab-card h3 {
   margin: 10px 0 5px 0;
   font-size: 1.2em;
 }
 
+/* ===============================
+   ROLE
+================================ */
+
 .lab-role {
   font-weight: 600;
-  color: #444;
+  margin-bottom: 2px;
 }
+
+/* ===============================
+   AFFILIATION
+================================ */
 
 .lab-affiliation {
   font-style: italic;
-  color: #777;
   font-size: 0.9em;
   margin-bottom: 10px;
+  opacity: 0.8;
 }
+
+/* ===============================
+   BIO TEXT
+================================ */
 
 .lab-card p {
   font-size: 0.9em;
   line-height: 1.4em;
 }
+
+/* ===============================
+   LINKS
+================================ */
 
 .lab-links {
   margin-top: 10px;
@@ -100,5 +132,18 @@
 .lab-links a {
   margin: 0 6px;
   font-size: 1.2em;
-  text-decoration: none;
+  color: var(--global-text-color);
+  transition: opacity 0.2s ease;
+}
+
+.lab-links a:hover {
+  opacity: 0.7;
+}
+
+@media (prefers-color-scheme: dark) {
+
+.lab-card:hover {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.6);
+}
+
 }
