@@ -1,6 +1,7 @@
 ---
 
 name: Yoo Jung (Erika) Oh, PhD
+lastname: Oh
 role: External Collaborator
 affiliation: Michigan State University
 image: /images/lab/erikaoh.jpg
