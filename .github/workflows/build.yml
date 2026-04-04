@@ -2,7 +2,7 @@ name: Build and Deploy Jekyll Site
 
 on:
   push:
-    branches: [ main ]       # or your default branch
+    branches: [ main ]       # your default branch
   workflow_dispatch:         # allows manual run
 
 jobs:
@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout your repo
+      # 1. Checkout the repository
       - uses: actions/checkout@v3
 
-      # 2. Set up Ruby
+      # 2. Setup Ruby environment
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
@@ -30,7 +30,7 @@ jobs:
       - name: Build site
         run: bundle exec jekyll build
 
-      # 5. Deploy to GitHub Pages
+      # 5. Deploy the built site to GitHub Pages
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v6
         with:
