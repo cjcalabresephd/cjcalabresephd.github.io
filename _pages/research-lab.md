@@ -8,12 +8,12 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
 
 ---
 
-{% assign roles = "Faculty,External Collaborator,Masters Student" | split: "," %}
+{% assign roles = "Faculty Collaborator,External Collaborator,Masters Student" | split: "," %}
 
 {% for role in roles %}
 
-{% if role == "Faculty" %}
-## Faculty
+{% if role == "Faculty Collaborator" %}
+## Faculty Collaborators
 {% elsif role == "External Collaborator" %}
 ## External Collaborators
 {% elsif role == "Masters Student" %}
