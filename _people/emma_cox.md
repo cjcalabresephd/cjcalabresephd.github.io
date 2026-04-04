@@ -1,6 +1,7 @@
 ---
 
 name: Emma G. Cox
+lastname: Cox
 role: External Collaborator
 affiliation: Cornell University
 image: /images/lab/emmacox.jpg
