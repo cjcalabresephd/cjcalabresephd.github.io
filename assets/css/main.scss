@@ -42,47 +42,80 @@
     "vendor/font-awesome/brands"
 ;
 
+/* ===== LAB MEMBER GRID ===== */
+
 .lab-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 30px;
   margin-top: 20px;
 }
 
+/* ===== MEMBER CARD ===== */
+
 .lab-card {
-  text-align: center;
-  padding: 18px;
-  border-radius: 12px;
   background: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
-  box-shadow: 0 3px 8px rgba(0,0,0,0.08);
 }
 
 .lab-card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 10px 18px rgba(0,0,0,0.15);
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 
+/* ===== PROFILE PHOTO ===== */
+
 .lab-card img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
+  width: 140px;
+  height: 140px;
   object-fit: cover;
-  margin-bottom: 10px;
+  border-radius: 50%;
+  margin-bottom: 15px;
 }
+
+/* ===== NAME ===== */
+
+.lab-card h3 {
+  margin: 10px 0 5px 0;
+  font-size: 1.2em;
+}
+
+/* ===== ROLE ===== */
 
 .lab-role {
   font-weight: 600;
-  color: #666;
+  color: #444;
+  margin-bottom: 2px;
+}
+
+/* ===== AFFILIATION ===== */
+
+.lab-affiliation {
+  font-style: italic;
+  color: #777;
+  font-size: 0.9em;
   margin-bottom: 10px;
+}
+
+/* ===== BIO ===== */
+
+.lab-card p {
+  font-size: 0.9em;
+  line-height: 1.4em;
+}
+
+/* ===== LINKS ===== */
+
+.lab-links {
+  margin-top: 10px;
 }
 
 .lab-links a {
   margin: 0 6px;
-  font-size: 20px;
+  font-size: 1.2em;
   text-decoration: none;
-}
-
-.lab-links a:hover {
-  opacity: 0.6;
 }
