@@ -4,8 +4,30 @@ permalink: /research-lab/
 layout: single
 ---
 
+## Lab Photo
+
+![Lab Photo](/images/lab/lab-photo.jpg)
+
+
 Welcome to the **Health Communication and Digital Innovation Research Group** at Clemson University!  
 Our research focuses on understanding how media messaging and persuasive technologies influence human behaviors, particularly in the context of health.
+
+---
+
+## Research Areas
+
+- Digital health interventions
+- Media effects and persuasion
+- Health misinformation
+- AI and health communication
+
+---
+
+## Join the Lab
+
+We are always interested in working with motivated undergraduate and graduate students interested in digital health, media effects, and persuasive technologies.
+
+Prospective students can email **cgcalab@clemson.edu** with a CV and statement of research interests.
 
 ---
 
