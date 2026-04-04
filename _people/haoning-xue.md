@@ -4,7 +4,7 @@ name: Haoning Xue, PhD
 lastname: Xue
 role: External Collaborator
 affiliation: University of Utah
-image: /images/lab/haoning-xue.jpg
+image: /images/lab/haoningxue.jpg
 scholar: https://scholar.google.com/citations?user=A3-_bIgAAAAJ&hl=en
 website: https://profiles.faculty.utah.edu/u6059240
 alumni: false
