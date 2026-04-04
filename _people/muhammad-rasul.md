@@ -1,6 +1,6 @@
 ---
 
-name: Muhammad Ehab Rasul
+name: Muhammad Ehab Rasul, PhD
 lastname: Rasul
 role: External Collaborator
 affiliation: National University of Singapore
