@@ -13,8 +13,8 @@ layout: single
 <div class="profile-card-page">
 
   <div class="pcp-header">
-    <div class="pcp-avatar">
-      <img src="/images/lab/ashleymckenzie.jpg" alt="Ashley Hedrick McKenzie" />
+    <div class="pcp-avatar-wrap">
+      <img src="/images/lab/ashleymckenzie.jpg" alt="Ashley Hedrick McKenzie" class="pcp-avatar" />
     </div>
     <div class="pcp-meta">
       <div class="pcp-name-row">
@@ -24,10 +24,10 @@ layout: single
       <p class="pcp-affiliation">Clemson University</p>
       <div class="pcp-links">
         <a href="https://scholar.google.com/citations?user=JcAn5K4AAAAJ&hl=en" target="_blank" rel="noopener">
-          <i class="fas fa-book-open"></i> Google Scholar
+          <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar
         </a>
         <a href="https://www.clemson.edu/cbshs/about/profiles/index.html?userid=ashmcke" target="_blank" rel="noopener">
-          <i class="fas fa-globe"></i> Faculty Profile
+          <i class="fas fa-fw fa-link" aria-hidden="true"></i> Faculty Profile
         </a>
       </div>
     </div>
