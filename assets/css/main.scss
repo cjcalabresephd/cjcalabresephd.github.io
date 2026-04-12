@@ -489,6 +489,24 @@
   margin-top: 20px;
 }
 
+/* Remove underline from name links and affiliation by default; show on hover */
+.lab-card h3 a,
+.lab-card .lab-affiliation a {
+  text-decoration: none;
+  border-bottom: none;
+}
+
+.lab-card h3 a:hover,
+.lab-card .lab-affiliation a:hover {
+  text-decoration: underline;
+}
+
+/* Also cover plain (non-link) affiliation text if it has a bottom border from theme */
+.lab-card h3,
+.lab-affiliation {
+  border-bottom: none;
+}
+
 /* ===============================
    CV LAYOUT
 ================================ */
