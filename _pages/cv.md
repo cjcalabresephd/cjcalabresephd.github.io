@@ -1,18 +1,31 @@
 ---
+layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
-layout: single
+author_profile: true
 ---
 
-You can view or download my CV below:
+[Download my CV (PDF)](https://clemson.app.box.com/s/guem6hmmxt1rmcieqtvvad3lgim36a75){: .btn}
 
-<!-- Direct link -->
-[Download my CV](https://clemson.app.box.com/s/guem6hmmxt1rmcieqtvvad3lgim36a75) 
+## Education
 
-<!-- Optional embedded viewer -->
-<iframe src="https://clemson.app.box.com/s/guem6hmmxt1rmcieqtvvad3lgim36a75?raw=1" 
-        width="100%" 
-        height="800px" 
-        style="border:1px solid #ccc;">
-Your browser does not support iframes. You can download the CV [here]([https://clemson.app.box.com/s/guem6hmmxt1rmcieqtvvad3lgim36a75]).
-</iframe>
+**PhD, Communication** — [University of California, Davis], [2021]
+
+**MPH, Public Health** — [University of California, Davis], [2016]
+
+**BS, Biochemistry and Molecular Biology** - [University of California, Davis], [2015]
+
+## Academic Appointments
+
+**Assistant Professor**, Department of Communication — Clemson University, [Start year]–present
+
+**Martin Fishbein Postdoctoral Fellow**, Annenberg Public Policy Center — University of Pennsylvania, [2021-2022]
+
+## Awards & Honors
+
+**Early Career Award** — APHA, Public Health Education and Health Promotion Section, 2025
+
+## Professional Service
+
+- PF&R Chair, AEJMC Communicating Science, Health, Environment and Risk Division
+- Treasurer, APHA Public Health Education and Health Promotion Section
