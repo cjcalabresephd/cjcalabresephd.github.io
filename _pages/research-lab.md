@@ -1,107 +1,115 @@
 ---
+layout: archive
 title: "Research Lab"
 permalink: /research-lab/
-layout: single
+author_profile: true
 ---
 
 Welcome to the **Health Communication and Digital Innovation Research Group** at Clemson University. Our research focuses on how media messaging and persuasive technologies influence human behavior, particularly in health contexts.
 
 ---
 
-{% assign roles = "Faculty Collaborator,Masters Student,External Collaborator" | split: "," %}
+<p class="section-label">Faculty Collaborators</p>
+<div class="member-grid">
 
-{% for role in roles %}
+  <a class="member-card" href="/people/cj-calabrese/">
+    <img class="member-avatar" src="/images/lab/cjcalabrese.jpg" alt="CJ Calabrese">
+    <div>
+      <div class="member-name">CJ Calabrese, PhD</div>
+      <div class="member-role">Director</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
 
-{% if role == "Faculty Collaborator" %}
-## Faculty Collaborators
-{% elsif role == "External Collaborator" %}
-## External Collaborators
-{% elsif role == "Masters Student" %}
-## Master's Students
-{% endif %}
+  <a class="member-card" href="/people/erin-ash/">
+    <img class="member-avatar" src="/images/lab/erinash.jpg" alt="Erin Ash">
+    <div>
+      <div class="member-name">Erin Ash, PhD</div>
+      <div class="member-role">Faculty Collaborator</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
 
-<div class="lab-grid">
+  <a class="member-card" href="/people/ashley-mckenzie/">
+    <img class="member-avatar" src="/images/lab/ashleymckenzie.jpg" alt="Ashley McKenzie">
+    <div>
+      <div class="member-name">Ashley Hedrick McKenzie, PhD</div>
+      <div class="member-role">Faculty Collaborator</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
 
-{% assign sorted_people = site.people | sort: "lastname" %}
-{% for person in sorted_people %}
-{% if person.role == role and person.alumni != true %}
-
-<div class="lab-card">
-
-<a href="{{ person.url }}">
-<img src="{{ person.image }}" alt="{{ person.name }}">
-</a>
-
-<h3><a href="{{ person.url }}">{{ person.name }}</a></h3>
-
-<p class="lab-role">{{ person.role }}</p>
-
-{% if person.affiliation %}
-<p class="lab-affiliation">{{ person.affiliation }}</p>
-{% endif %}
-
-<p>{{ person.content | strip_html | truncate: 120 }}</p>
-
-<div class="lab-links">
-
-{% if person.website %}
-<a href="{{ person.website }}" target="_blank"><i class="fas fa-globe"></i></a>
-{% endif %}
-
-{% if person.scholar %}
-<a href="{{ person.scholar }}" target="_blank"><i class="fas fa-graduation-cap"></i></a>
-{% endif %}
-
-{% if person.github %}
-<a href="https://github.com/{{ person.github }}" target="_blank"><i class="fab fa-github"></i></a>
-{% endif %}
-
-{% if person.email %}
-<a href="mailto:{{ person.email }}"><i class="fas fa-envelope"></i></a>
-{% endif %}
+  <a class="member-card" href="/people/camille-saucier/">
+    <img class="member-avatar" src="/images/lab/camillesaucier.jpg" alt="Camille Saucier">
+    <div>
+      <div class="member-name">Camille Saucier, PhD</div>
+      <div class="member-role">Faculty Collaborator</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
 
 </div>
 
-</div>
+<p class="section-label">Master's Students</p>
+<div class="member-grid">
 
-{% endif %}
-{% endfor %}
+  <a class="member-card" href="/people/kamila-eshalieva/">
+    <img class="member-avatar" src="/images/lab/kamilaeshalieva.jpg" alt="Kamila Eshalieva">
+    <div>
+      <div class="member-name">Kamila Eshalieva</div>
+      <div class="member-role">Master's Student</div>
+      <div class="member-inst">Gender-based violence</div>
+    </div>
+  </a>
 
-</div>
-
-{% endfor %}
-
----
-
-## Alumni
-
-<div class="lab-grid">
-
-{% assign sorted_people = site.people | sort: "lastname" %}
-{% for person in sorted_people %}
-{% if person.alumni == true %}
-
-<div class="lab-card">
-
-<a href="{{ person.url }}">
-<img src="{{ person.image }}" alt="{{ person.name }}">
-</a>
-
-<h3><a href="{{ person.url }}">{{ person.name }}</a></h3>
-
-<p class="lab-role">{{ person.role }}</p>
-
-{% if person.affiliation %}
-<p class="lab-affiliation">{{ person.affiliation }}</p>
-{% endif %}
-
-<p>{{ person.content | strip_html | truncate: 120 }}</p>
+  <a class="member-card" href="/people/kylie-friday/">
+    <img class="member-avatar" src="/images/lab/kyliefriday.jpg" alt="Kylie Friday">
+    <div>
+      <div class="member-name">Kylie Friday</div>
+      <div class="member-role">Master's Student</div>
+      <div class="member-inst">Medical mistrust</div>
+    </div>
+  </a>
 
 </div>
 
-{% endif %}
-{% endfor %}
+<p class="section-label">External Collaborators</p>
+<div class="member-grid">
+
+  <a class="member-card" href="/people/erika-oh/">
+    <img class="member-avatar" src="/images/lab/erikaoh.jpg" alt="Erika Oh">
+    <div>
+      <div class="member-name">Yoo Jung (Erika) Oh, PhD</div>
+      <div class="member-role">External Collaborator</div>
+      <div class="member-inst">Michigan State University</div>
+    </div>
+  </a>
+
+  <a class="member-card" href="/people/muhammad-rasul/">
+    <img class="member-avatar" src="/images/lab/muhammadrasul.jpg" alt="Muhammad Rasul">
+    <div>
+      <div class="member-name">Muhammad Ehab Rasul, PhD</div>
+      <div class="member-role">External Collaborator</div>
+      <div class="member-inst">National University of Singapore</div>
+    </div>
+  </a>
+
+  <a class="member-card" href="/people/haoning-xue/">
+    <img class="member-avatar" src="/images/lab/haoningxue.jpg" alt="Haoning Xue">
+    <div>
+      <div class="member-name">Haoning Xue, PhD</div>
+      <div class="member-role">External Collaborator</div>
+      <div class="member-inst">University of Utah</div>
+    </div>
+  </a>
+
+  <a class="member-card" href="/people/xudong-yu/">
+    <img class="member-avatar" src="/images/lab/xudongyu.jpg" alt="Xudong Yu">
+    <div>
+      <div class="member-name">Xudong Yu, PhD</div>
+      <div class="member-role">External Collaborator</div>
+      <div class="member-inst">University of North Dakota</div>
+    </div>
+  </a>
 
 </div>
-
-
