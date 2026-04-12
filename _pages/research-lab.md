@@ -58,7 +58,7 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
     <div>
       <div class="member-name">Kamila Eshalieva</div>
       <div class="member-role">Master's Student</div>
-      <div class="member-inst">Gender-based violence</div>
+      <div class="member-inst">Clemson University</div>
     </div>
   </a>
 
@@ -67,7 +67,7 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
     <div>
       <div class="member-name">Kylie Friday</div>
       <div class="member-role">Master's Student</div>
-      <div class="member-inst">Medical mistrust</div>
+      <div class="member-inst">Clemson University</div>
     </div>
   </a>
 
@@ -113,3 +113,24 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
   </a>
 
 </div>
+
+
+<p class="section-label">Alumni</p>
+<div class="member-grid">
+
+  <a class="member-card" href="/people/emma-cox/">
+    <img class="member-avatar" src="/images/lab/emma-cox.jpg" alt="Erika Oh">
+    <div>
+      <div class="member-name">Emma Cox</div>
+      <div class="member-role">Alumni</div>
+      <div class="member-inst">Cornell University</div>
+    </div>
+  </a>
+
+
+</div>
+
+
+
+
+
