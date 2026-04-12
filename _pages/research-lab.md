@@ -75,7 +75,16 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
 
 <p class="section-label">External Collaborators</p>
 <div class="member-grid">
-
+  
+  <a class="member-card" href="/people/jayveeritz-bautista/">
+    <img class="member-avatar" src="/images/lab/jayveeritzbautista.jpg" alt="Erika Oh">
+    <div>
+      <div class="member-name">Jayveeritz Bautista, PhD</div>
+      <div class="member-role">External Collaborator</div>
+      <div class="member-inst">University of California, Irvine</div>
+    </div>
+  </a>
+  
   <a class="member-card" href="/people/erika-oh/">
     <img class="member-avatar" src="/images/lab/erikaoh.jpg" alt="Erika Oh">
     <div>
@@ -111,6 +120,15 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
       <div class="member-inst">University of North Dakota</div>
     </div>
   </a>
+  
+  <a class="member-card" href="/people/jingwen-zhang/">
+    <img class="member-avatar" src="/images/lab/jingwenzhang.jpg" alt="Xudong Yu">
+    <div>
+      <div class="member-name">Jingwen Zhang, PhD</div>
+      <div class="member-role">External Collaborator</div>
+      <div class="member-inst">University of California, Davis</div>
+    </div>
+  </a>
 
 </div>
 
@@ -119,7 +137,7 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
 <div class="member-grid">
 
   <a class="member-card" href="/people/emma-cox/">
-    <img class="member-avatar" src="/images/lab/emma-cox.jpg" alt="Erika Oh">
+    <img class="member-avatar" src="/images/lab/emmacox.jpg" alt="Erika Oh">
     <div>
       <div class="member-name">Emma Cox</div>
       <div class="member-role">Alumni</div>
