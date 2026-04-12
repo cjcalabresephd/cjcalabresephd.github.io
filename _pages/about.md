@@ -15,8 +15,8 @@ Dr. Calabrese received the Early Career Award by the PHEHP section at the Americ
   <span class="chip chip-orange">Health Communication</span>
   <span class="chip chip-purple">Persuasive Technologies</span>
   <span class="chip chip-blue">Behavior Change</span>
-  <span class="chip chip-green">Misinformation and Disinformation</span>
-  <span class="chip chip-yellow">Artificial Intelligence</span>
+  <span class="chip chip-yellow">Misinformation and Disinformation</span>
+  <span class="chip chip-green">Artificial Intelligence</span>
 </div>
 
 <p class="section-label" style="margin-top:24px;">Published in</p>
