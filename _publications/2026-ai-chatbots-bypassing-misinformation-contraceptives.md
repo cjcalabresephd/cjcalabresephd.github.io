@@ -12,5 +12,5 @@ authors:
  - xinyu-zhang
  - yoo-jung-oh
 venue: 'Science Communication'
-citation: 'Calabrese, C., Xue, H., Zhang, X., & Oh, Y. J. (2026). Leveraging artificial intelligence chatbots to employ bypassing and correction strategies for addressing misinformation about contraceptive use. <i>Science Communication</i>.'
+citation: 'Calabrese, C., Xue, H., Zhang, X., & Oh, Y. J. (2026). Leveraging artificial intelligence chatbots to employ bypassing and correction strategies for addressing misinformation about contraceptive use. <i>Science Communication</i>. <a href="https://doi.org/10.1177/10755470261418533" target="_blank">https://doi.org/10.1177/10755470261418533</a>'
 ---
