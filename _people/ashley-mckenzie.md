@@ -44,7 +44,7 @@ layout: single
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">
       <span class="chip chip-blue">Health communication</span>
-      <span class="chip chip-blue">Stigma &amp; attitudes</span>
+      <span class="chip chip-blue">Stigma and attitudes</span>
       <span class="chip chip-orange">Sexual violence prevention</span>
       <span class="chip chip-orange">Cancer prevention</span>
       <span class="chip chip-green">HIV prevention</span>
