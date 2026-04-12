@@ -543,7 +543,7 @@ author_profile: true
 
 <div class="cv-section">
   <div class="cv-section-title">Professional Affiliations</div>
-  <div line-height:2;">
+  <div class="cv-body">
     American Public Health Association (APHA)<br>
     Association for Education in Journalism and Mass Communication (AEJMC)<br>
     International Communication Association (ICA)<br>
