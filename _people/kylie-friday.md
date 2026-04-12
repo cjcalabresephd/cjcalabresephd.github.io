@@ -33,10 +33,18 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-Kylie Friday is an M.A. student in the Department of Communication at Clemson University. Her research focuses on health communication, with an emphasis on medical mistrust and tailored messaging for historically marginalized communities. Her thesis examines how narrative-based interventions can reduce medical mistrust among women. She was recently recognized as the Outstanding Graduate Teaching Assistant of the Year.
+Kylie Friday is an M.A. student in the Department of Communication at Clemson University. Her research focuses on health communication, with an emphasis on medical mistrust and tailored messaging for historically marginalized communities. Her thesis examines how narrative-based interventions can reduce medical mistrust among women.
     </p>
   </div>
-
+  
+  <div class="pcp-section">
+    <h2 class="pcp-section-title">Awards</h2>
+    <p class="pcp-bio">
+<i class="fas fa-award" style="color: #d4a017;"></i>2026 Outstanding Graduate Teaching Assistant of the Year, College of Behavioral, Social and Health Sciences, Clemson University
+<i class="fas fa-award" style="color: #d4a017;"></i>2026 Outstanding Graduate Teaching Assistant of the Year, Department of Communication, Clemson University
+    </p>
+  </div>
+  
   <div class="pcp-section">
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">
