@@ -34,7 +34,7 @@ layout: single
   </div>
 
   <div class="pcp-section">
-    <h2 class="pcp-section-title">Bio/h2>
+    <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
       Dr. Ashley Hedrick McKenzie is an assistant professor of health communication at Clemson University. She completed a Postdoctoral Fellowship at the University of Texas Health Science Center at Houston, and graduated from UNC-Chapel Hill with a Ph.D. in media and communication and an M.A. in mass communication. Her research examines cervical and breast cancer prevention, sexual violence prevention, HIV prevention, and human trafficking education. She is particularly interested in using online spaces and digital health interventions to change attitudes, beliefs, and health outcomes.
     </p>
