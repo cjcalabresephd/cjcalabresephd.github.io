@@ -200,6 +200,126 @@
 }
 
 /* ===============================
+   PROFILE PAGE (individual member)
+================================ */
+
+.profile-card-page {
+  max-width: 780px;
+}
+
+.pcp-header {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 0.5px solid var(--global-border-color);
+}
+
+.pcp-avatar {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0;
+  border: 3px solid var(--global-border-color);
+  background: var(--global-bg-color);
+}
+
+.pcp-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.pcp-meta {
+  flex: 1;
+  min-width: 0;
+}
+
+.pcp-name-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 4px;
+}
+
+.pcp-name {
+  font-size: 20px;
+  font-weight: 500;
+  margin: 0;
+  color: var(--global-text-color);
+  border: none;
+}
+
+.pcp-badge {
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 6px;
+  background: #e6f0fb;
+  color: #185fa5;
+  border: 0.5px solid #85b7eb;
+}
+
+.pcp-affiliation {
+  font-size: 14px;
+  color: var(--global-text-color-light, #6b7280);
+  margin: 0 0 10px;
+  font-style: italic;
+  opacity: 0.8;
+}
+
+.pcp-links {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.pcp-links a {
+  font-size: 13px;
+  color: var(--global-text-color);
+  text-decoration: none;
+  padding: 4px 10px;
+  border: 0.5px solid var(--global-border-color);
+  border-radius: 6px;
+  transition: opacity 0.2s ease;
+}
+
+.pcp-links a:hover {
+  opacity: 0.7;
+  text-decoration: none;
+}
+
+.pcp-section {
+  margin-bottom: 1.5rem;
+}
+
+.pcp-section-title {
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0 0 8px;
+  border: none;
+  color: var(--global-text-color);
+}
+
+.pcp-tagline {
+  font-size: 14px;
+  color: var(--global-text-color);
+  font-style: italic;
+  line-height: 1.7;
+  margin-bottom: 12px;
+  opacity: 0.8;
+}
+
+.pcp-bio {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--global-text-color);
+  margin: 0;
+}
+
+/* ===============================
    JOURNAL STRIP
 ================================ */
 .journal-strip {
