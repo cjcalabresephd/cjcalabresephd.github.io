@@ -7,41 +7,12 @@ author_profile: true
 
 {% assign pubs_by_year = site.publications | sort: 'date' | reverse %}
 
-{% assign current_year = nil %}
-
 {% for pub in pubs_by_year %}
-  {% assign year = pub.date | date: "%Y" %}
-
-  {% if year != current_year %}
-    {% assign current_year = year %}
-    
-    <h2>{{ current_year }}</h2>
-    <hr class="archive__hr">
-  {% endif %}
-
-  <div class="list__item">
-    <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-      
-      <h3 class="archive__item-title" itemprop="headline">
-        <a href="{{ pub.permalink }}" rel="permalink">{{ pub.title }}</a>
-      </h3>
-
-      {% if pub.venue %}
-        <p class="archive__item-excerpt">{{ pub.venue }}</p>
-      {% endif %}
-
-      {% if pub.citation %}
-        <p class="archive__item-excerpt">
-          {{ pub.citation | truncatewords: 20 }}
-        </p>
-      {% endif %}
-
-      {% if pub.paperurl %}
-        <p>
-          <a href="{{ pub.paperurl }}">DOI</a>
-        </p>
-      {% endif %}
-
-    </article>
-  </div>
+<div class="pub-card">
+  <div class="pub-year">{{ pub.date | date: "%Y" }}</div>
+  <div class="pub-title"><a href="{{ pub.permalink }}">{{ pub.title }}</a></div>
+  {% if pub.venue %}<div class="pub-journal">{{ pub.venue }}</div>{% endif %}
+  {% if pub.citation %}<div class="pub-authors">{{ pub.citation | truncatewords: 12 }}</div>{% endif %}
+  {% if pub.paperurl %}<a class="pub-doi" href="{{ pub.paperurl }}">DOI</a>{% endif %}
+</div>
 {% endfor %}
