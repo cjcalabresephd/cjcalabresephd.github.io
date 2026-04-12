@@ -24,7 +24,7 @@ layout: single
       </div>
       <p class="pcp-affiliation">Clemson University</p>
       <div class="pcp-links">
-        <a href="https://scholar.google.com/citations?user=JcAn5K4AAAAJ&hl=en" target="_blank" rel="noopener">
+        <a href="https://scholar.google.com/citations?user=j4vvnlYAAAAJ&hl=en" target="_blank" rel="noopener">
           <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar
         </a>
         <a href="https://www.clemson.edu/cbshs/about/profiles/ash3" target="_blank" rel="noopener">
