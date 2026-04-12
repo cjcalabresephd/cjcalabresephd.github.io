@@ -1,7 +1,7 @@
 ---
 
 name: CJ Calabrese, PhD
-lastname: A Calabrese
+lastname: Calabrese
 role: Faculty Collaborator
 affiliation: Clemson University
 image: /images/lab/cjcalabrese.jpg
@@ -12,38 +12,5 @@ layout: single
 
 ---
 
-Dr. Calabrese is the Director of the Health Communication and Digital Innovation Research Group. 
+Dr. Calabrese is an Assistant Professor in the Department of Communication at Clemson University and a Faculty Scholar at the Clemson University School of Health Research. His research examines the effects and processes through which new media and online technologies influence human behaviors and decision-making. Dr. Calabrese’s current projects focus on leveraging online technologies for health promotion, designing persuasive messages to promote health behaviors and public policies, investigating the impacts of our social environment on health, and understanding key publics’ perceptions surrounding health and science issues.
 
-He is an Assistant Professor in the Department of Communication at Clemson University and a Faculty Scholar at the Clemson University School of Health Research. His research examines the effects and processes through which new media and online technologies influence human behaviors and decision-making. Dr. Calabrese’s current projects focus on leveraging online technologies for health promotion, designing persuasive messages to promote health behaviors and public policies, investigating the impacts of our social environment on health, and understanding key publics’ perceptions surrounding health and science issues.
-
-
-## Publications
-
-{% assign mypubs = site.publications 
-   | where_exp:"item","item.authors contains 'cj-calabrese'" %}
-
-### Journal Articles
-
-{% assign journal = mypubs 
-   | where:"category","journal" 
-   | sort:"date" 
-   | reverse %}
-
-{% for post in journal %}
-  {% include archive-single.html %}
-{% endfor %}
-
----
-
-### Articles in Review
-
-{% assign review = mypubs 
-   | where:"category","review" 
-   | sort:"date" 
-   | reverse %}
-
-{% for post in review %}
-  {% include archive-single.html %}
-{% endfor %}
-
----
