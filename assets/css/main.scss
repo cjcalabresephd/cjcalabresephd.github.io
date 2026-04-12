@@ -1,153 +1,266 @@
----
----
-
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-
-@import
-    "vendor/breakpoint/breakpoint",
-
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
-    "include/mixins",
-    "vendor/susy/susy",
-
-    "layout/reset",
-    "layout/base",
-
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
-
-    "layout/forms",
-
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv",
-
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
-
-/* ===============================
-   LAB MEMBER GRID
-================================ */
-
-.lab-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 30px;
-  margin-top: 20px;
+/* ── Sidebar refinements ── */
+#sidebar {
+  background: #f8f8f6;
+  border-right: 0.5px solid #e5e5e2;
+  padding: 24px 20px;
 }
 
-/* ===============================
-   MEMBER CARD
-================================ */
-
-.lab-card {
-  background: var(--global-bg-color);
-  border-radius: 10px;
-  padding: 20px;
-  text-align: center;
-  border: 1px solid var(--global-border-color);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.lab-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-}
-
-/* ===============================
-   PROFILE PHOTO
-================================ */
-
-.lab-card img {
-  width: 140px;
-  height: 140px;
-  object-fit: cover;
+#sidebar .author__avatar img {
   border-radius: 50%;
-  margin-bottom: 15px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
 }
 
-/* ===============================
-   NAME
-================================ */
-
-.lab-card h3 {
-  margin: 10px 0 5px 0;
-  font-size: 1.2em;
-}
-
-/* ===============================
-   ROLE
-================================ */
-
-.lab-role {
-  font-weight: 600;
+#sidebar .author__name {
+  font-size: 15px;
+  font-weight: 500;
   margin-bottom: 2px;
 }
 
-/* ===============================
-   AFFILIATION
-================================ */
+#sidebar .author__bio {
+  font-size: 11px;
+  color: #666;
+  line-height: 1.5;
+}
 
-.lab-affiliation {
+/* Remove icons from nav */
+.nav__list .nav__items a .nav__sub-title,
+.greedy-nav a {
+  font-size: 13px;
+}
+
+#sidebar .author__urls a i,
+#sidebar .author__urls a .svg-inline--fa {
+  display: none;
+}
+
+/* Research area chips on home page */
+.research-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 18px;
+}
+
+.research-chips .chip {
+  font-size: 11px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  border: 0.5px solid;
+}
+
+.chip-blue {
+  background: #e6f0fb;
+  color: #185fa5;
+  border-color: #85b7eb;
+}
+
+.chip-orange {
+  background: #faece7;
+  color: #993c1d;
+  border-color: #f0997b;
+}
+
+.chip-green {
+  background: #eaf3de;
+  color: #3b6d11;
+  border-color: #97c459;
+}
+
+/* Journal pills */
+.journal-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.journal-strip .pill {
+  font-size: 11px;
+  padding: 3px 8px;
+  border-radius: 4px;
+  border: 0.5px solid #ddd;
+  color: #555;
   font-style: italic;
-  font-size: 0.9em;
+}
+
+/* Publication cards */
+.pub-card {
+  border: 0.5px solid #e5e5e2;
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+  background: #fff;
+}
+
+.pub-card .pub-year {
+  font-size: 10px;
+  color: #999;
+  margin-bottom: 4px;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+
+.pub-card .pub-title {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+
+.pub-card .pub-journal {
+  font-size: 12px;
+  color: #666;
+  font-style: italic;
+  margin-bottom: 4px;
+}
+
+.pub-card .pub-authors {
+  font-size: 11px;
+  color: #999;
   margin-bottom: 10px;
-  opacity: 0.8;
 }
 
-/* ===============================
-   BIO TEXT
-================================ */
-
-.lab-card p {
-  font-size: 0.9em;
-  line-height: 1.4em;
+.pub-card .pub-doi {
+  display: inline-block;
+  font-size: 11px;
+  padding: 3px 8px;
+  background: #e6f0fb;
+  color: #185fa5;
+  border: 0.5px solid #85b7eb;
+  border-radius: 4px;
+  text-decoration: none;
 }
 
-/* ===============================
-   LINKS
-================================ */
-
-.lab-links {
-  margin-top: 10px;
+/* Lab member grid */
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-bottom: 20px;
 }
 
-.lab-links a {
-  margin: 0 6px;
-  font-size: 1.2em;
-  color: var(--global-text-color);
-  transition: opacity 0.2s ease;
+.member-card {
+  border: 0.5px solid #e5e5e2;
+  border-radius: 8px;
+  padding: 12px;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color .15s, background .15s;
 }
 
-.lab-links a:hover {
-  opacity: 0.7;
+.member-card:hover {
+  border-color: #bbb;
+  background: #f8f8f6;
+  text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
-
-.lab-card:hover {
-  box-shadow: 0 8px 20px rgba(0,0,0,0.6);
+.member-avatar {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
 }
 
+.member-avatar-initials {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: 500;
+  color: #fff;
+  flex-shrink: 0;
 }
 
-.lab-card img {
-  border: 3px solid var(--global-border-color);
+.member-name {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 1px;
+}
+
+.member-role {
+  font-size: 11px;
+  color: #888;
+}
+
+.member-inst {
+  font-size: 11px;
+  color: #666;
+}
+
+.section-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: #999;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+/* CV inline layout */
+.cv-section {
+  margin-bottom: 24px;
+}
+
+.cv-section-title {
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: #999;
+  border-bottom: 0.5px solid #e5e5e2;
+  padding-bottom: 6px;
+  margin-bottom: 12px;
+}
+
+.cv-row {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 10px;
+}
+
+.cv-year {
+  font-size: 12px;
+  color: #999;
+  min-width: 80px;
+  padding-top: 2px;
+  flex-shrink: 0;
+}
+
+.cv-body {
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+}
+
+.cv-sub {
+  font-size: 12px;
+  color: #666;
+}
+
+.download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 16px;
+  border: 0.5px solid #ccc;
+  border-radius: 8px;
+  font-size: 13px;
+  color: #444;
+  text-decoration: none;
+  margin-bottom: 24px;
+  transition: background .15s;
+}
+
+.download-btn:hover {
+  background: #f0f0ee;
+  text-decoration: none;
 }
