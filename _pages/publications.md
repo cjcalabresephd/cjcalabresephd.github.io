@@ -10,7 +10,7 @@ author_profile: true
   | sort: "date" 
   | reverse %}
 {% for post in journal %}
-  {% include archive-single.html excerpt="" %}
+  {% include archive-single.html show_excerpt=false %}
 {% endfor %}
 ---
 ## Articles in Review
@@ -19,7 +19,7 @@ author_profile: true
   | sort: "date" 
   | reverse %}
 {% for post in review %}
-  {% include archive-single.html excerpt="" %}
+  {% include archive-single.html show_excerpt=false %}
 {% endfor %}
 ---
 ## Articles in Progress
@@ -28,5 +28,5 @@ author_profile: true
   | sort: "date" 
   | reverse %}
 {% for post in progress %}
-  {% include archive-single.html excerpt="" %}
+  {% include archive-single.html show_excerpt=false %}
 {% endfor %}
