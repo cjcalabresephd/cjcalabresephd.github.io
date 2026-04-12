@@ -209,32 +209,59 @@
 
 .pcp-header {
   display: flex;
-  gap: 24px;
+  gap: 28px;
   align-items: flex-start;
   margin-bottom: 1.5rem;
   padding-bottom: 1.5rem;
   border-bottom: 0.5px solid var(--global-border-color);
 }
 
-.pcp-avatar {
-  width: 88px;
-  height: 88px;
+/* --- Avatar: circle with hover overlay, matching lab-card style --- */
+
+.pcp-avatar-wrap {
+  position: relative;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
   overflow: hidden;
   flex-shrink: 0;
   border: 3px solid var(--global-border-color);
-  background: var(--global-bg-color);
+  cursor: default;
 }
 
-.pcp-avatar img {
+.pcp-avatar {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease, filter 0.3s ease;
 }
+
+.pcp-avatar-wrap::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.18);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.pcp-avatar-wrap:hover .pcp-avatar {
+  transform: scale(1.05);
+  filter: brightness(1.08);
+}
+
+.pcp-avatar-wrap:hover::after {
+  opacity: 1;
+}
+
+/* --- Meta --- */
 
 .pcp-meta {
   flex: 1;
   min-width: 0;
+  padding-top: 8px;
 }
 
 .pcp-name-row {
@@ -264,11 +291,13 @@
 
 .pcp-affiliation {
   font-size: 14px;
-  color: var(--global-text-color-light, #6b7280);
-  margin: 0 0 10px;
+  color: var(--global-text-color);
+  margin: 0 0 12px;
   font-style: italic;
-  opacity: 0.8;
+  opacity: 0.7;
 }
+
+/* --- Links: match sidebar author link style --- */
 
 .pcp-links {
   display: flex;
@@ -277,19 +306,29 @@
 }
 
 .pcp-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
   font-size: 13px;
   color: var(--global-text-color);
   text-decoration: none;
-  padding: 4px 10px;
+  padding: 5px 12px;
   border: 0.5px solid var(--global-border-color);
   border-radius: 6px;
-  transition: opacity 0.2s ease;
+  transition: opacity 0.2s ease, background 0.2s ease;
 }
 
 .pcp-links a:hover {
-  opacity: 0.7;
+  opacity: 0.75;
   text-decoration: none;
+  background: var(--global-bg-color);
 }
+
+.pcp-links a i {
+  font-size: 14px;
+}
+
+/* --- Sections --- */
 
 .pcp-section {
   margin-bottom: 1.5rem;
@@ -309,7 +348,7 @@
   font-style: italic;
   line-height: 1.7;
   margin-bottom: 12px;
-  opacity: 0.8;
+  opacity: 0.75;
 }
 
 .pcp-bio {
