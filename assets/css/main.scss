@@ -552,16 +552,10 @@
   text-decoration: none;
 }
 
-
-.member-card .member-name,
-.member-card .member-role,
-.member-card .member-inst {
+.member-card {
   text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
 }
 
 .member-card:hover .member-name {
   text-decoration: underline !important;
 }
-
