@@ -13,5 +13,5 @@ authors:
  - kathryn-anthony
  - joshua-hill
 venue: 'Journal of Health Communication'
-citation: 'Cox, E., Calabrese, C., Ash, E., Anthony, K. E., & Hill, J. B. (2025). A narrative persuasion approach to promoting COVID-19-related policy support. <i>Journal of Health Communication</i>, <i>30</i>(1–3), 102–111. <a href="https://doi.org/10.1080/10810730.2025.2459119" target="_blank">https://doi.org/10.1080/10810730.2025.2459119</a>'
+citation: 'Cox, E., Calabrese, C., Ash, E., Anthony, K. E., & Hill, J. B. (2025). A narrative persuasion approach to promoting COVID-19-related policy support. <i>Journal of Health Communication</i>, <i>30</i>(1–3), 102–111. [https://doi.org/10.1080/10810730.2025.2459119](https://doi.org/10.1080/10810730.2025.2459119)'
 ---
