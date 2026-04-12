@@ -34,7 +34,6 @@ layout: single
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
 Kylie Friday is an M.A. student in the Department of Communication at Clemson University. Her research focuses on health communication, with an emphasis on medical mistrust and tailored messaging for historically marginalized communities. Her thesis examines how narrative-based interventions can reduce medical mistrust among women. She was recently recognized as the Outstanding Graduate Teaching Assistant of the Year.
-
     </p>
   </div>
 
