@@ -48,7 +48,7 @@ layout: single
     <div class="research-chips">
       <span class="chip chip-orange">Media psychology</span>
       <span class="chip chip-purple">Message processing</span>
-      <span class="chip chip-blue">Media Effects</span>
+      <span class="chip chip-blue">Media effects</span>
       <span class="chip chip-yellow">Information integrity</span>
     </div>
   </div>
