@@ -18,7 +18,7 @@ layout: single
     </div>
     <div class="pcp-meta">
       <div class="pcp-name-row">
-        <h1 class="pcp-name">Kylie Friday/h1>
+        <h1 class="pcp-name">Kylie Friday</h1>
         <span class="pcp-badge">Masters Student</span>
       </div>
       <p class="pcp-affiliation">Clemson University</p>
