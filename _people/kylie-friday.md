@@ -39,10 +39,10 @@ Kylie Friday is an M.A. student in the Department of Communication at Clemson Un
   
   <div class="pcp-section">
     <h2 class="pcp-section-title">Awards</h2>
-    <p class="pcp-bio">
+   <div class="research-chips">
 <span class="chip chip-yellow"><i class="fas fa-award" style="color: #d4a017;"></i>2026 Outstanding Graduate Teaching Assistant of the Year, College of Behavioral, Social and Health Sciences, Clemson University</span>
 <span class="chip chip-yellow"><i class="fas fa-award" style="color: #d4a017;"></i>2026 Outstanding Graduate Teaching Assistant of the Year, Department of Communication, Clemson University</span>
-    </p>
+    </div>
   </div>
   
   <div class="pcp-section">
