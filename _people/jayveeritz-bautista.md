@@ -16,7 +16,7 @@ layout: single
 
   <div class="pcp-header">
     <div class="pcp-avatar-wrap">
-      <img src="/images/lab/jayveebautista.jpg" alt="Jayveeritz Bautista" class="pcp-avatar" />
+      <img src="/images/lab/jayveeritzbautista.jpg" alt="Jayveeritz Bautista" class="pcp-avatar" />
     </div>
     <div class="pcp-meta">
       <div class="pcp-name-row">
