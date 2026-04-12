@@ -335,23 +335,23 @@ author_profile: true
 <div class="cv-section">
   <div class="cv-section-title">Advisory & Supervisory Responsibilities</div>
   <div class="cv-row">
-    <div class="cv-year">2026–present</div>
+    <div class="cv-year">2026–Present</div>
     <div><div class="cv-body">John Fowler</div><div class="cv-sub">MA Thesis Committee</div></div>
   </div>
   <div class="cv-row">
-    <div class="cv-year">2025–present</div>
+    <div class="cv-year">2025–Present</div>
     <div><div class="cv-body">Praise Eyabi</div><div class="cv-sub">MA Thesis Advisor, First Year Advisor</div></div>
   </div>
   <div class="cv-row">
-    <div class="cv-year">2025–present</div>
+    <div class="cv-year">2025–Present</div>
     <div><div class="cv-body">Kylie Friday</div><div class="cv-sub">MA Thesis Advisor</div></div>
   </div>
   <div class="cv-row">
-    <div class="cv-year">2025–present</div>
+    <div class="cv-year">2025–Present</div>
     <div><div class="cv-body">Grace Vu</div><div class="cv-sub">MA Thesis Committee</div></div>
   </div>
   <div class="cv-row">
-    <div class="cv-year">2024–present</div>
+    <div class="cv-year">2024–Present</div>
     <div><div class="cv-body">Lee Holbert</div><div class="cv-sub">MA Thesis Committee</div></div>
   </div>
   <div class="cv-row">
@@ -384,11 +384,11 @@ author_profile: true
   </div>
 
   <div class="cv-row">
-    <div class="cv-year">2025–present</div>
+    <div class="cv-year">2025–Present</div>
     <div><div class="cv-body">Treasurer</div><div class="cv-sub">APHA Public Health Education and Health Promotion Section</div></div>
   </div>
   <div class="cv-row">
-    <div class="cv-year">2025–present</div>
+    <div class="cv-year">2025–Present</div>
     <div><div class="cv-body">PF&amp;R Chair</div><div class="cv-sub">AEJMC ComSHER Division</div></div>
   </div>
   <div class="cv-row">
@@ -430,11 +430,11 @@ author_profile: true
 
   <div style="font-size:12px;font-weight:500;color:#666;margin-bottom:8px;">Clemson University</div>
   <div class="cv-row">
-    <div class="cv-year">2024–present</div>
+    <div class="cv-year">2024–Present</div>
     <div><div class="cv-body">Research Committee</div><div class="cv-sub">Department of Communication, Clemson University</div></div>
   </div>
   <div class="cv-row">
-    <div class="cv-year">2023–present</div>
+    <div class="cv-year">2023–Present</div>
     <div><div class="cv-body">Communication Graduate Program Committee</div><div class="cv-sub">Department of Communication, Clemson University</div></div>
   </div>
   <div class="cv-row">
@@ -554,7 +554,7 @@ author_profile: true
 <div class="cv-section">
   <div class="cv-section-title">Certifications</div>
   <div class="cv-row">
-    <div class="cv-year">2016–present</div>
+    <div class="cv-year">2016–Present</div>
     <div><div class="cv-body">Certified Health Education Specialist (CHES)</div></div>
   </div>
 </div>
