@@ -14,7 +14,9 @@ author_profile: true
 
   {% if year != current_year %}
     {% assign current_year = year %}
-    <h2 class="archive__subtitle">{{ current_year }}</h2>
+    
+    <h2>{{ current_year }}</h2>
+    <hr class="archive__hr">
   {% endif %}
 
   <div class="list__item">
