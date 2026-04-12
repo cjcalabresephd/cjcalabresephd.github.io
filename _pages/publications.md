@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 ## Journal Articles
 {% assign journal = site.publications 
   | where: "category", "journal" 
@@ -13,6 +14,7 @@ author_profile: true
   {% include archive-single.html show_excerpt=false %}
 {% endfor %}
 ---
+
 ## Articles in Review
 {% assign review = site.publications 
   | where: "category", "review" 
@@ -22,6 +24,7 @@ author_profile: true
   {% include archive-single.html show_excerpt=false %}
 {% endfor %}
 ---
+
 ## Articles in Progress
 {% assign progress = site.publications 
   | where: "category", "inprogress" 
