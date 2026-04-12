@@ -43,13 +43,11 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">
-      <span class="chip chip-blue">Health communication</span>
-      <span class="chip chip-blue">Stigma and attitudes</span>
-      <span class="chip chip-orange">Sexual violence prevention</span>
-      <span class="chip chip-orange">Cancer prevention</span>
-      <span class="chip chip-green">HIV prevention</span>
+      <span class="chip chip-orange">Health communication</span>
+      <span class="chip chip-purple">Stigma and attitudes</span>
+      <span class="chip chip-blue">Sexual violence prevention</span>
+      <span class="chip chip-yellow">Cancer prevention</span>
       <span class="chip chip-green">Digital health interventions</span>
-      <span class="chip chip-purple">Human trafficking education</span>
     </div>
   </div>
 
