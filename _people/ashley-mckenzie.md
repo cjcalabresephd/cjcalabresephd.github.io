@@ -1,7 +1,7 @@
 ---
 name: Ashley Hedrick McKenzie, PhD
 lastname: McKenzie
-role: Faculty Collaborator
+role: Director
 affiliation: Clemson University
 image: /images/lab/ashleymckenzie.jpg
 scholar: https://scholar.google.com/citations?user=JcAn5K4AAAAJ&hl=en
@@ -19,7 +19,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Ashley Hedrick McKenzie, PhD</h1>
-        <span class="pcp-badge">Faculty Collaborator</span>
+        <span class="pcp-badge">Director</span>
       </div>
       <p class="pcp-affiliation">Clemson University</p>
       <div class="pcp-links">
