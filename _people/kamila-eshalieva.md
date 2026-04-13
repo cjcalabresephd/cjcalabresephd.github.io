@@ -30,7 +30,7 @@ layout: single
         </a>
       </div>
     </div>
-  </div>
+  </div> 
 
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
