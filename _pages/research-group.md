@@ -20,8 +20,6 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
       <div class="member-inst">Clemson University</div>
     </div>
   </a>
-  </div>
-
 
   <a class="member-card" href="/people/erin-ash/">
     <img class="member-avatar" src="/images/lab/erinash.jpg" alt="Erin Ash">
@@ -49,7 +47,7 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
       <div class="member-inst">Clemson University</div>
     </div>
   </a>
-
+  </div>
 
 <p class="section-label">Master's Students</p>
 <div class="member-grid">
