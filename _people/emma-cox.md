@@ -22,6 +22,7 @@ layout: single
       <div class="pcp-name-row">
         <h1 class="pcp-name">Emma Cox</h1>
         <span class="pcp-badge">Alumni</span>
+        <span class="pcp-badge">External Collaborator</span>
       </div>
       <p class="pcp-affiliation">Clemson University</p>
       <div class="pcp-links">
@@ -38,7 +39,7 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-      Emma is a PhD student at Cornell University focusing on media effects, persuasion, and health communication.
+      Emma is a PhD student at Cornell University focusing on media effects, persuasion, and health communication. Emma uses experiments to investigate strategies for increasing public recognition of the structural causes and policy solutions to health and social inequalities.
     </p>
   </div>
 
