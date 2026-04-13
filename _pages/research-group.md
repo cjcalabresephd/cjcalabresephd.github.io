@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Lab"
-permalink: /research-lab/
+permalink: /research-group/
 author_profile: true
 ---
 
@@ -9,7 +9,7 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
 
 ---
 
-<p class="section-label">Director</p>
+<p class="section-label">Directors</p>
 <div class="member-grid">
 
   <a class="member-card" href="/people/cj-calabrese/">
@@ -21,6 +21,34 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
     </div>
   </a>
   </div>
+
+
+  <a class="member-card" href="/people/erin-ash/">
+    <img class="member-avatar" src="/images/lab/erinash.jpg" alt="Erin Ash">
+    <div>
+      <div class="member-name">Erin Ash, PhD</div>
+      <div class="member-role">Director</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
+
+  <a class="member-card" href="/people/ashley-mckenzie/">
+    <img class="member-avatar" src="/images/lab/ashleymckenzie.jpg" alt="Ashley McKenzie">
+    <div>
+      <div class="member-name">Ashley Hedrick McKenzie, PhD</div>
+      <div class="member-role">Director</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
+  
+  <a class="member-card" href="/people/camille-saucier/">
+    <img class="member-avatar" src="/images/lab/camillesaucier.jpg" alt="Camille Saucier">
+    <div>
+      <div class="member-name">Camille Saucier, PhD</div>
+      <div class="member-role">Faculty Collaborator</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
 
 
 <p class="section-label">Master's Students</p>
@@ -40,39 +68,6 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
     <div>
       <div class="member-name">Kylie Friday</div>
       <div class="member-role">Master's Student</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-
-</div>
-
-  
-<p class="section-label">Faculty Collaborators</p>
-<div class="member-grid">
-
-  <a class="member-card" href="/people/erin-ash/">
-    <img class="member-avatar" src="/images/lab/erinash.jpg" alt="Erin Ash">
-    <div>
-      <div class="member-name">Erin Ash, PhD</div>
-      <div class="member-role">Faculty Collaborator</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-
-  <a class="member-card" href="/people/ashley-mckenzie/">
-    <img class="member-avatar" src="/images/lab/ashleymckenzie.jpg" alt="Ashley McKenzie">
-    <div>
-      <div class="member-name">Ashley Hedrick McKenzie, PhD</div>
-      <div class="member-role">Faculty Collaborator</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-
-  <a class="member-card" href="/people/camille-saucier/">
-    <img class="member-avatar" src="/images/lab/camillesaucier.jpg" alt="Camille Saucier">
-    <div>
-      <div class="member-name">Camille Saucier, PhD</div>
-      <div class="member-role">Faculty Collaborator</div>
       <div class="member-inst">Clemson University</div>
     </div>
   </a>
