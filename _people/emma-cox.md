@@ -44,6 +44,13 @@ layout: single
   </div>
 
   <div class="pcp-section">
+    <h2 class="pcp-section-title">Awards</h2>
+   <div class="research-chips">
+<span class="chip chip-yellow"><i class="fas fa-award" style="color: #d4a017;"></i>2024 Outstanding Graduate Researcher of the Year, Department of Communication, Clemson University</span>
+    </div>
+  </div>
+  
+  <div class="pcp-section">
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">
       <span class="chip chip-orange">Health communication</span>
