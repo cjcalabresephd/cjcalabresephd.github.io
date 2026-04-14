@@ -12,19 +12,19 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
 <p class="section-label">Directors</p>
 <div class="member-grid">
 
-  <a class="member-card" href="/people/cj-calabrese/">
-    <img class="member-avatar" src="/images/lab/cjcalabrese.jpg" alt="CJ Calabrese">
+  <a class="member-card" href="/people/erin-ash/">
+    <img class="member-avatar" src="/images/lab/erinash.jpg" alt="Erin Ash">
     <div>
-      <div class="member-name">CJ Calabrese, PhD</div>
+      <div class="member-name">Erin Ash, PhD</div>
       <div class="member-role">Director</div>
       <div class="member-inst">Clemson University</div>
     </div>
   </a>
 
-  <a class="member-card" href="/people/erin-ash/">
-    <img class="member-avatar" src="/images/lab/erinash.jpg" alt="Erin Ash">
+  <a class="member-card" href="/people/cj-calabrese/">
+    <img class="member-avatar" src="/images/lab/cjcalabrese.jpg" alt="CJ Calabrese">
     <div>
-      <div class="member-name">Erin Ash, PhD</div>
+      <div class="member-name">CJ Calabrese, PhD</div>
       <div class="member-role">Director</div>
       <div class="member-inst">Clemson University</div>
     </div>
