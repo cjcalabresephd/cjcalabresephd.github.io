@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Lab"
+title: "Research Group"
 permalink: /research-group/
 author_profile: true
 ---
@@ -43,7 +43,7 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
     <img class="member-avatar" src="/images/lab/camillesaucier.jpg" alt="Camille Saucier">
     <div>
       <div class="member-name">Camille Saucier, PhD</div>
-      <div class="member-role">Faculty Collaborator</div>
+      <div class="member-role">Director</div>
       <div class="member-inst">Clemson University</div>
     </div>
   </a>
