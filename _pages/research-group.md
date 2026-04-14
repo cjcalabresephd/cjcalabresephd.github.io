@@ -30,6 +30,15 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
     </div>
   </a>
 
+  <a class="member-card" href="/people/carlina-dirusso/">
+    <img class="member-avatar" src="/images/lab/carlinadirusso.jpg" alt="Carlina DiRusso">
+    <div>
+      <div class="member-name">Carlina DiRusso, PhD</div>
+      <div class="member-role">Director</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
+  
   <a class="member-card" href="/people/ashley-mckenzie/">
     <img class="member-avatar" src="/images/lab/ashleymckenzie.jpg" alt="Ashley McKenzie">
     <div>
@@ -43,15 +52,6 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
     <img class="member-avatar" src="/images/lab/camillesaucier.jpg" alt="Camille Saucier">
     <div>
       <div class="member-name">Camille Saucier, PhD</div>
-      <div class="member-role">Director</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-
-  <a class="member-card" href="/people/carlina-dirusso/">
-    <img class="member-avatar" src="/images/lab/carlinadirusso.jpg" alt="Carlina DiRusso">
-    <div>
-      <div class="member-name">Carlina DiRusso, PhD</div>
       <div class="member-role">Director</div>
       <div class="member-inst">Clemson University</div>
     </div>
