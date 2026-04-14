@@ -2,7 +2,7 @@
 
 name: Camille Saucier, PhD
 lastname: Saucier
-role: Faculty Collaborator
+role: Director
 affiliation: Clemson University
 image: /images/lab/camillesaucier.jpg
 scholar: https://scholar.google.com/citations?user=6iM4K68AAAAJ&hl=en
@@ -22,7 +22,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Camille Saucier, PhD</h1>
-        <span class="pcp-badge">Faculty Collaborator</span>
+        <span class="pcp-badge">Director</span>
       </div>
       <p class="pcp-affiliation">Clemson University</p>
       <div class="pcp-links">
