@@ -15,7 +15,7 @@ layout: single
 
   <div class="pcp-header">
     <div class="pcp-avatar-wrap">
-      <img src="/images/lab/moonsunjeon.jpg" alt="Moonsun (Sunny) Jeon" class="pcp-avatar" />
+      <img src="/images/lab/moonsunjeon.JPG" alt="Moonsun (Sunny) Jeon" class="pcp-avatar" />
     </div>
     <div class="pcp-meta">
       <div class="pcp-name-row">
