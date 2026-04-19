@@ -94,6 +94,24 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
       <div class="member-inst">University of California, Irvine</div>
     </div>
   </a>
+
+  <a class="member-card" href="/people/heejung-cho/">
+    <img class="member-avatar" src="/images/lab/heejungcho" alt="Hee Jung Cho">
+    <div>
+      <div class="member-name">Hee Jung Cho</div>
+      <div class="member-role">External Collaborator</div>
+      <div class="member-inst">Michigan State University</div>
+    </div>
+  </a>
+
+ <a class="member-card" href="/people/moonsun-jeon/">
+    <img class="member-avatar" src="/images/lab/moonsunjeon" alt="Moonsun (Sunny) Jeon">
+    <div>
+      <div class="member-name">Moonsun (Sunny) Jeon</div>
+      <div class="member-role">External Collaborator</div>
+      <div class="member-inst">Michigan State University</div>
+    </div>
+  </a>
   
   <a class="member-card" href="/people/erika-oh/">
     <img class="member-avatar" src="/images/lab/erikaoh.jpg" alt="Erika Oh">
