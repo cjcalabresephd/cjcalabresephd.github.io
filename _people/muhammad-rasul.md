@@ -38,7 +38,7 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-      Dr. Muhammad Ehab Rasul is a Research Fellow at the Centre for Trusted Internet and Community at the National University of Singapore. His research lies at the intersection of digital and new media, political communication, mis/disinformation, and media effects.
+      Dr. Muhammad Ehab Rasul is currently a research fellow at the Centre for Trusted Internet and Community at the National University of Singapore. His research focuses on how the modern information environment shapes public attitudes, political behaviors, and intergroup psychology, with a focus on mis/disinformation.
     </p>
   </div>
 
@@ -46,9 +46,10 @@ layout: single
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">
       <span class="chip chip-orange">New and emerging media</span>
-      <span class="chip chip-purple">Political communication</span>
-      <span class="chip chip-blue">Mis/disinformation</span>
-      <span class="chip chip-yellow">Media effects</span>
+      <span class="chip chip-purple">Political communication and behavior</span>
+      <span class="chip chip-blue">Media effects</span>
+      <span class="chip chip-yellow">Mis/disinformation</span>
+      <span class="chip chip-green">Intergroup psychology</span>
     </div>
   </div>
 
