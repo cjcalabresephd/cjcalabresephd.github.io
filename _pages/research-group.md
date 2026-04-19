@@ -96,7 +96,7 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
   </a>
 
   <a class="member-card" href="/people/heejung-cho/">
-    <img class="member-avatar" src="/images/lab/heejungcho" alt="Hee Jung Cho">
+    <img class="member-avatar" src="/images/lab/heejungcho.jpg" alt="Hee Jung Cho">
     <div>
       <div class="member-name">Hee Jung Cho</div>
       <div class="member-role">External Collaborator</div>
@@ -105,7 +105,7 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
   </a>
 
  <a class="member-card" href="/people/moonsun-jeon/">
-    <img class="member-avatar" src="/images/lab/moonsunjeon" alt="Moonsun (Sunny) Jeon">
+    <img class="member-avatar" src="/images/lab/moonsunjeon.jpg" alt="Moonsun (Sunny) Jeon">
     <div>
       <div class="member-name">Moonsun (Sunny) Jeon</div>
       <div class="member-role">External Collaborator</div>
