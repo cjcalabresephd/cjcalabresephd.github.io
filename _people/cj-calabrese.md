@@ -49,7 +49,7 @@ layout: single
       <span class="chip chip-purple">Persuasive technologies</span>
       <span class="chip chip-blue">Behavior change</span>
       <span class="chip chip-yellow">Mis/disinformation</span>
-      <span class="chip chip-yellow">Artificial intelligence</span>
+      <span class="chip chip-green">Artificial intelligence</span>
     </div>
   </div>
 
