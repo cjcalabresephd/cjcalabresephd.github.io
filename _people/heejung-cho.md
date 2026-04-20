@@ -34,7 +34,7 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-     Hee Jung Cho is a doctoral student in the Department of Communication at Michigan State University. Her research examines the intersection of persuasion, health communication and emerging technologies, with a focus on the affective and cognitive mechanisms underlying information processing.
+     Hee Jung Cho is a doctoral candidate in the Department of Communication at Michigan State University. Her research lies at the intersection of persuasion, health communication, and emerging technologies, with a focus on how media messages shape attention, emotion, memory, and shared physiological responses. She examines the affective and cognitive mechanisms underlying media and information processing.
  </p>
   </div>
 
@@ -42,8 +42,10 @@ layout: single
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">
       <span class="chip chip-orange">Persuasion</span>
-      <span class="chip chip-purple">Health communication</span>
-      <span class="chip chip-blue">Emerging technologies</span>
+      <span class="chip chip-purple">Attention</span>
+      <span class="chip chip-blue">Emotion</span>
+      <span class="chip chip-yellow">Psychophysiology</span>
+      <span class="chip chip-green">Extended reality</span>
     </div>
   </div>
 
