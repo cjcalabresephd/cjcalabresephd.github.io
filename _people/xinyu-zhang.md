@@ -38,7 +38,7 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-     Xinyu Zhang is a Ph.D. student in the Department of Communication at Michigan State University. Her research explores how communication technologies influence self-identity and interpersonal relationships. She aims to explore the boundaries of mediated communication and promote individual well-being through technology-based interactions.   
+     Xinyu Zhang is a Ph.D. student in the Department of Communication at Michigan State University. Her research explores how communication technologies influence self-identity and interpersonal relationships. She aims to explore the boundaries of mediated communication and promote individual well-being through technology-based interactions.  
     </p>
   </div>
 
