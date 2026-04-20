@@ -150,7 +150,7 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
   </a>
   
   <a class="member-card" href="/people/jingwen-zhang/">
-    <img class="member-avatar" src="/images/lab/jingwenzhang.jpg" alt="Xudong Yu">
+    <img class="member-avatar" src="/images/lab/jingwenzhang.jpg" alt="Jingwen Zhang">
     <div>
       <div class="member-name">Jingwen Zhang, PhD</div>
       <div class="member-role">External Collaborator</div>
@@ -158,6 +158,14 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
     </div>
   </a>
 
+  <a class="member-card" href="/people/xinyu-zhang/">
+    <img class="member-avatar" src="/images/lab/xinyuzhang.JPG" alt="Xinyu Zhang">
+    <div>
+      <div class="member-name">Xinyu Zhang</div>
+      <div class="member-role">External Collaborator</div>
+      <div class="member-inst">Michigan State University</div>
+    </div>
+  </a>
 </div>
 
 
