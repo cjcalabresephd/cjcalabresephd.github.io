@@ -34,7 +34,7 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-     Moonsun Jeon is a Ph.D. student in the Department of Communication at Michigan State University. Her research interests lie in persuasion and social influence, specifically in the field of health communication. Sunny wants to investigate cognitive, affective, and social factors that promote health behavior changes.
+     Moonsun (Sunny) Jeon is a Ph.D. student in the Department of Communication at Michigan State University. Her research interests lie in persuasion and social influence, specifically in the contexts of health, environment, and AI-human interaction. Sunny wants to investigate cognitive, affective, and social factors that promote positive behavior changes.
     </p>
   </div>
 
