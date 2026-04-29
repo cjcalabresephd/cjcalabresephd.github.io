@@ -71,6 +71,15 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
     </div>
   </a>
 
+  <a class="member-card" href="/people/praise-eyabi/">
+    <img class="member-avatar" src="/images/lab/praiseeyabi.jpg" alt="Praise Eyabi">
+    <div>
+      <div class="member-name">Praise Eyabi</div>
+      <div class="member-role">Master's Student</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
+  
   <a class="member-card" href="/people/kylie-friday/">
     <img class="member-avatar" src="/images/lab/kyliefriday.jpg" alt="Kylie Friday">
     <div>
