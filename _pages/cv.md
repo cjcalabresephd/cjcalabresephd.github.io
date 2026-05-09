@@ -347,7 +347,7 @@ author_profile: true
     <div><div class="cv-body">Abigail Chinn</div><div class="cv-sub">MA Thesis Committee</div></div>
   </div>
     <div class="cv-row">
-    <div class="cv-year">2025–Present</div>
+    <div class="cv-year">2026–Present</div>
     <div><div class="cv-body">John Fowler</div><div class="cv-sub">MA Thesis Committee</div></div>
   </div>
   <div class="cv-row">
