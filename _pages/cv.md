@@ -344,6 +344,10 @@ author_profile: true
   <div class="cv-section-title">Advisory & Supervisory Responsibilities</div>
   <div class="cv-row">
     <div class="cv-year">2026–Present</div>
+    <div><div class="cv-body">Abigail Chinn</div><div class="cv-sub">MA Thesis Committee</div></div>
+  </div>
+    <div class="cv-row">
+    <div class="cv-year">2025–Present</div>
     <div><div class="cv-body">John Fowler</div><div class="cv-sub">MA Thesis Committee</div></div>
   </div>
   <div class="cv-row">
@@ -442,7 +446,7 @@ author_profile: true
     <div><div class="cv-body">Research Committee</div><div class="cv-sub">Department of Communication, Clemson University</div></div>
   </div>
   <div class="cv-row">
-    <div class="cv-year">2023–Present</div>
+    <div class="cv-year">2023–2026</div>
     <div><div class="cv-body">Communication Graduate Program Committee</div><div class="cv-sub">Department of Communication, Clemson University</div></div>
   </div>
   <div class="cv-row">
