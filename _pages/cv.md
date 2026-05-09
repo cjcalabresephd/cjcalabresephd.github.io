@@ -236,6 +236,10 @@ author_profile: true
     <div class="cv-year">In review</div>
     <div><div class="cv-body">Oh, Y. J., Jeon, M., Cho, H. J., <strong>Calabrese, C.</strong>, & Rasul, M. E. Predictors of personal, societal, and third-person perceptions of deepfake harms.</div></div>
   </div>
+    <div class="cv-row">
+    <div class="cv-year">In review</div>
+    <div><div class="cv-body">Zhang, X., <strong>Calabrese, C.</strong>, Xue, H., Oh, Y. J. The impact of emotional synchrony on strategies to address misinformation.</div></div>
+  </div>
 </div>
 
 
@@ -257,6 +261,10 @@ author_profile: true
 
 <div class="cv-section">
   <div class="cv-section-title">Honors, Awards & Fellowships</div>
+    <div class="cv-row">
+    <div class="cv-year">May 2026</div>
+    <div><div class="cv-body">Research Emerging Scholar Award</div><div class="cv-sub">Department of Communication, Clemson University</div></div>
+  </div>
   <div class="cv-row">
     <div class="cv-year">Nov 2025</div>
     <div><div class="cv-body">Early Career Award</div><div class="cv-sub">PHEHP Section, American Public Health Association</div></div>
