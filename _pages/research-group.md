@@ -62,28 +62,10 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
 <p class="section-label">Master's Students</p>
 <div class="member-grid">
 
-  <a class="member-card" href="/people/kamila-eshalieva/">
-    <img class="member-avatar" src="/images/lab/kamilaeshalieva.jpg" alt="Kamila Eshalieva">
-    <div>
-      <div class="member-name">Kamila Eshalieva</div>
-      <div class="member-role">Master's Student</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-
   <a class="member-card" href="/people/praise-eyabi/">
     <img class="member-avatar" src="/images/lab/praiseeyabi.jpg" alt="Praise Eyabi">
     <div>
       <div class="member-name">Praise Eyabi</div>
-      <div class="member-role">Master's Student</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-  
-  <a class="member-card" href="/people/kylie-friday/">
-    <img class="member-avatar" src="/images/lab/kyliefriday.jpg" alt="Kylie Friday">
-    <div>
-      <div class="member-name">Kylie Friday</div>
       <div class="member-role">Master's Student</div>
       <div class="member-inst">Clemson University</div>
     </div>
@@ -190,6 +172,23 @@ Welcome to the **Health Communication and Digital Innovation Research Group** at
     </div>
   </a>
 
+  <a class="member-card" href="/people/kamila-eshalieva/">
+    <img class="member-avatar" src="/images/lab/kamilaeshalieva.jpg" alt="Kamila Eshalieva">
+    <div>
+      <div class="member-name">Kamila Eshalieva</div>
+      <div class="member-role">Alumni</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
+  
+  <a class="member-card" href="/people/kylie-friday/">
+    <img class="member-avatar" src="/images/lab/kyliefriday.jpg" alt="Kylie Friday">
+    <div>
+      <div class="member-name">Kylie Friday</div>
+      <div class="member-role">Alumni</div>
+      <div class="member-inst">Clemson University</div>
+    </div>
+  </a>
 
 </div>
 
