@@ -313,8 +313,8 @@ author_profile: true
     <div class="cv-year">2022–Present</div>
     <div>
       <div class="cv-body">Clemson University — Assistant Professor, Department of Communication</div>
-      <div class="cv-sub"><em>Graduate:</em> Quantitative Research Methods; Persuasive Communication for Health; Persuasive Technologies and Health</div>
-      <div class="cv-sub"><em>Undergraduate:</em> Introduction to Human Communication; Communication Theory; Communication Inquiry; Persuasion</div>
+      <div class="cv-sub"><em>Graduate:</em> Persuasive Communication for Health; Persuasive Technologies and Health</div>
+      <div class="cv-sub"><em>Undergraduate:</em> Introduction to Human Communication; Communication Theory; Communication Inquiry; Communication Across Media Platforms; Persuasion; Media Communication</div>
     </div>
   </div>
   <div class="cv-row">
@@ -354,17 +354,17 @@ author_profile: true
     <div class="cv-year">2025–Present</div>
     <div><div class="cv-body">Praise Eyabi</div><div class="cv-sub">MA Thesis Advisor, First Year Advisor</div></div>
   </div>
+    <div class="cv-row">
+    <div class="cv-year">2024–Present</div>
+    <div><div class="cv-body">Lee Holbert</div><div class="cv-sub">MA Thesis Committee</div></div>
+  </div>
   <div class="cv-row">
-    <div class="cv-year">2025–Present</div>
+    <div class="cv-year">2025–2026</div>
     <div><div class="cv-body">Kylie Friday</div><div class="cv-sub">MA Thesis Advisor</div></div>
   </div>
   <div class="cv-row">
-    <div class="cv-year">2025–Present</div>
+    <div class="cv-year">2025–2026</div>
     <div><div class="cv-body">Grace Vu</div><div class="cv-sub">MA Thesis Committee</div></div>
-  </div>
-  <div class="cv-row">
-    <div class="cv-year">2024–Present</div>
-    <div><div class="cv-body">Lee Holbert</div><div class="cv-sub">MA Thesis Committee</div></div>
   </div>
   <div class="cv-row">
     <div class="cv-year">2023–2025</div>
@@ -390,7 +390,7 @@ author_profile: true
   <div class="cv-row" style="margin-bottom:14px;">
     <div class="cv-year">Ad-hoc reviewer</div>
     <div>
-      <div class="cv-body">AI and Ethics, AIDS and Behavior, Communication Monographs, Computers in Human Behavior, Crisis and Risk Communication, Environmental Communication, Global Health Promotion, GM Crops and Food, Health Communication, Humanities and Social Sciences Communications, International Journal of Human–Computer Interaction, Journal of Communication, Journal of Computer-Mediated Communication, Journal of Health Communication, Journal of Science Communication, Media and Communication, New Media &amp; Society, Pharmacoepidemiology and Drug Safety, Public Understanding of Science, Science Communication, Social Media + Society, Social Network Analysis and Mining, The Social Science Journal.</div>
+      <div class="cv-body">AI and Ethics, AIDS and Behavior, Communication Monographs, Computers in Human Behavior, Crisis and Risk Communication, Environmental Communication, Global Health Promotion, GM Crops and Food, Health Communication, Humanities and Social Sciences Communications, International Journal of Human–Computer Interaction, Journal of Communication, Journal of Computer-Mediated Communication, Journal of Health Communication, Journal of Science Communication, Media and Communication, New Media &amp; Society, Pharmacoepidemiology and Drug Safety, Public Understanding of Science, Science Communication, Sexuality Research and Social Policy, Social Media + Society, Social Network Analysis and Mining, The Social Science Journal.</div>
       <div class="cv-body" style="margin-top:4px;">Conference reviewer: American Public Health Association, Association for Education in Journalism and Mass Communication, International Communication Association, National Communication Association.</div>
     </div>
   </div>
@@ -515,6 +515,10 @@ author_profile: true
 
 <div class="cv-section">
   <div class="cv-section-title">Invited Talks</div>
+    <div class="cv-row">
+    <div class="cv-year">Apr 17, 2026</div>
+    <div><div class="cv-body">"Empowering Individuals Through AI Literacy: Combating AI-Generated Deepfakes"</div><div class="cv-sub">Invited Talk, Federation Prize Recipient Presentation, Central States Communication Association</div></div>
+  </div>
   <div class="cv-row">
     <div class="cv-year">Nov 7, 2025</div>
     <div><div class="cv-body">"Addressing Health Misinformation through Bypassing and Correction Strategies"</div><div class="cv-sub">Guest Lecture, Health Communication (graduate), University of California, Davis</div></div>
