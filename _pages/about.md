@@ -1,7 +1,10 @@
 ---
 permalink: /
-title: ""
+title: "CJ Calabrese"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 <div class="research-chips">
