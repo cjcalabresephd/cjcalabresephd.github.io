@@ -44,10 +44,10 @@ author_profile: false
 
 <div class="page-section">
 
-  <h2>Graduate Students & Collaboration</h2>
+  <h2>Inquiries & Collaboration</h2>
 
   <p class="page-copy">
-    I welcome inquiries from prospective graduate students and collaborators whose interests align with health communication, persuasion, digital media, misinformation, and artificial intelligence.
+    For graduate inquiries, collaboration opportunities, or media requests related to my research, please email me directly.
   </p>
 
   <div class="page-button-row">
