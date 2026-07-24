@@ -13,7 +13,7 @@ title: "CJ Calabrese"
 title_separator: "-"
 name: &name "CJ Calabrese"
 description: &description "CJ Calabrese is an Assistant Professor of Communication at Clemson University whose research focuses on health communication, persuasive technologies, misinformation, artificial intelligence, and behavior change."
-url: "https://www.cjcalabrese.com"
+url: "https://cjcalabrese.com"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "cjcalabresephd/cjcalabresephd.github.io"
 
