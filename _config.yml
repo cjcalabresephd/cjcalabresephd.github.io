@@ -129,15 +129,23 @@ facebook:
   username:
   app_id:
   publisher:
-og_image: "/images/profile.png"
+og_image: "profile.png"
 og_description: "CJ Calabrese is an Assistant Professor of Communication at Clemson University whose research focuses on health communication, persuasive technologies, misinformation, artificial intelligence, and behavior change."
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type:
-  name:
+  type: Person
+  name: CJ Calabrese
   links:
+    - https://cjcalabrese.com
+    - https://scholar.google.com/citations?user=bSngWScAAAAJ&hl=en
+    - https://orcid.org/0000-0001-6216-0489
+    - https://www.clemson.edu/cbshs/about/profiles/index.html?userid=cgcalab
+    - https://www.linkedin.com/in/cjcalabrese/
+    - https://www.researchgate.net/profile/Christopher-Calabrese
+    - https://cjcalabrese.bsky.social
+
 
 academicons: true
 
