@@ -2,37 +2,20 @@ name: Build and Deploy Jekyll Site
 
 on:
   push:
-    branches: [ master ]       # your default branch
-  workflow_dispatch:         # allows manual run
+    branches: [ master ]   # change to main if that is your real default branch
+  workflow_dispatch:
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repository
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
 
-      # 2. Setup Ruby environment
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
           bundler-cache: true
 
-      # 3. Install dependencies
-      - name: Install gems
-        run: |
-          gem install bundler
-          bundle init
-          bundle add github-pages jekyll-scholar
-
-      # 4. Build the Jekyll site
       - name: Build site
         run: bundle exec jekyll build
-
-      # 5. Deploy the built site to GitHub Pages
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v6
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
