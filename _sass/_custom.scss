@@ -411,7 +411,7 @@ body .page__footer a:hover {
 }
 
 @media (max-width: 768px) {
-  body > #main > .sidebar.sticky {
+  body.home #main > .sidebar.sticky {
     display: none;
   }
 }
