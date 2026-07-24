@@ -10,7 +10,7 @@
 locale: "en-US"
 site_theme: "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt", and "contrast"
 title: "CJ Calabrese"
-title_separator: "-"
+title_separator: "|"
 name: &name "CJ Calabrese"
 description: &description "CJ Calabrese is an Assistant Professor of Communication at Clemson University whose research focuses on health communication, persuasive technologies, misinformation, artificial intelligence, and behavior change."
 url: "https://cjcalabrese.com"
