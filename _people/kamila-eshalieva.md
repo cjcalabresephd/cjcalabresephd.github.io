@@ -1,8 +1,8 @@
 ---
 
-name: Kamila Eshalieva 
+name: Kamila Eshalieva
 lastname: Eshalieva
-role: Masters Student
+role: Alumni
 affiliation: Clemson University
 image: /images/lab/kamilaeshalieva.jpg
 alumni: false
@@ -21,7 +21,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Kamila Eshalieva</h1>
-        <span class="pcp-badge">Masters Student</span>
+        <span class="pcp-badge">Alumni</span>
       </div>
       <p class="pcp-affiliation">Clemson University</p>
       <div class="pcp-links">
@@ -30,22 +30,22 @@ layout: single
         </a>
       </div>
     </div>
-  </div> 
+  </div>
 
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-Kamila Eshalieva is a graduate student in Communication at Clemson University. Originally from Kyrgyzstan, she has reported on human rights issues and worked with a nonprofit organization focused on strengthening investigative journalism in Eastern Europe, the Caucasus, and Central Asia. Kamila's research centers on gender-based violence. Her master’s thesis examines technology-facilitated gender-based violence (TFGBV) experienced by women journalists.
+Kamila Eshalieva is a recent graduate of the MA in Communication program at Clemson University. Originally from Kyrgyzstan, she has reported on human rights issues and worked with a nonprofit organization focused on strengthening investigative journalism in Eastern Europe, the Caucasus, and Central Asia. Kamila's research centers on gender-based violence. Her master’s thesis examines technology-facilitated gender-based violence (TFGBV) experienced by women journalists.
     </p>
   </div>
-  
+
   <div class="pcp-section">
     <h2 class="pcp-section-title">Awards</h2>
    <div class="research-chips">
 <span class="chip chip-yellow"><i class="fas fa-award" style="color: #d4a017;"></i>2026 iGRADS 2nd Place for the College of Behavioral, Social and Health Sciences, Clemson University</span>
     </div>
   </div>
-  
+
   <div class="pcp-section">
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">

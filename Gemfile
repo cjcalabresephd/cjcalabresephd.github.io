@@ -11,9 +11,5 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
-
-
-source "https://rubygems.org"
-
-gem "github-pages"
-gem "jekyll-scholar"
+gem 'jekyll-scholar'
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]

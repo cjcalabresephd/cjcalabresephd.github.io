@@ -2,7 +2,7 @@
 
 name: Hee Jung Cho
 lastname: Cho
-role: External Collaborator
+role: Collaborator
 affiliation: Michigan State University
 image: /images/lab/heejungcho.jpg
 website: https://comartsci.msu.edu/our-people/hee-jung-cho
@@ -20,7 +20,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Hee Jung Cho</h1>
-        <span class="pcp-badge">PhD Student</span>
+        <span class="pcp-badge">Collaborator</span>
       </div>
       <p class="pcp-affiliation">Michigan State University</p>
       <div class="pcp-links">

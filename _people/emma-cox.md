@@ -2,11 +2,11 @@
 
 name: Emma G. Cox
 lastname: Cox
-role: External Collaborator
+role: Collaborator
 affiliation: Cornell University
 image: /images/lab/emmacox.jpg
 scholar: https://scholar.google.com/citations?user=iHTKCOsAAAAJ&hl=en
-website: https://cals.cornell.edu/people/emma-cox 
+website: https://cals.cornell.edu/people/emma-cox
 alumni: true
 layout: single
 
@@ -22,7 +22,7 @@ layout: single
       <div class="pcp-name-row">
         <h1 class="pcp-name">Emma Cox</h1>
         <span class="pcp-badge">Alumni</span>
-        <span class="pcp-badge">External Collaborator</span>
+        <span class="pcp-badge">Collaborator</span>
       </div>
       <p class="pcp-affiliation">Clemson University</p>
       <div class="pcp-links">
@@ -49,7 +49,7 @@ layout: single
 <span class="chip chip-yellow"><i class="fas fa-award" style="color: #d4a017;"></i>2024 Outstanding Graduate Researcher of the Year, Department of Communication, Clemson University</span>
     </div>
   </div>
-  
+
   <div class="pcp-section">
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">

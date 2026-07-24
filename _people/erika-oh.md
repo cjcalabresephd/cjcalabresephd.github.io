@@ -2,7 +2,7 @@
 
 name: Yoo Jung (Erika) Oh, PhD
 lastname: Oh
-role: External Collaborator
+role: Collaborator
 affiliation: Michigan State University
 image: /images/lab/erikaoh.jpg
 scholar: https://scholar.google.com/citations?user=kZAz0c8AAAAJ&hl=en
@@ -21,7 +21,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Erika Oh, PhD</h1>
-        <span class="pcp-badge">External Collaborator</span>
+        <span class="pcp-badge">Collaborator</span>
       </div>
       <p class="pcp-affiliation">Michigan State University</p>
       <div class="pcp-links">

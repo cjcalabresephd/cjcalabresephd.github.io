@@ -1,198 +1,253 @@
 ---
-layout: archive
+layout: single
 title: "Research Group"
 permalink: /research-group/
-author_profile: true
+author_profile: false
 ---
 
-Welcome to the **Health Communication and Digital Innovation Research Group** at Clemson University. Our research focuses on how media messaging and persuasive technologies influence human behavior, particularly in health contexts.
+<div class="research-group-page">
 
----
-
-<p class="section-label">Directors</p>
-<div class="member-grid">
-
-  <a class="member-card" href="/people/cj-calabrese/">
-    <img class="member-avatar" src="/images/lab/cjcalabrese.jpg" alt="CJ Calabrese">
-    <div>
-      <div class="member-name">CJ Calabrese, PhD</div>
-      <div class="member-role">Director</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-  
-  <a class="member-card" href="/people/erin-ash/">
-    <img class="member-avatar" src="/images/lab/erinash.jpg" alt="Erin Ash">
-    <div>
-      <div class="member-name">Erin Ash, PhD</div>
-      <div class="member-role">Director</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-
-  <a class="member-card" href="/people/carlina-dirusso/">
-    <img class="member-avatar" src="/images/lab/carlinadirusso.jpg" alt="Carlina DiRusso">
-    <div>
-      <div class="member-name">Carlina DiRusso, PhD</div>
-      <div class="member-role">Director</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-  
-  <a class="member-card" href="/people/ashley-mckenzie/">
-    <img class="member-avatar" src="/images/lab/ashleymckenzie.jpg" alt="Ashley McKenzie">
-    <div>
-      <div class="member-name">Ashley Hedrick McKenzie, PhD</div>
-      <div class="member-role">Director</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-  
-  <a class="member-card" href="/people/camille-saucier/">
-    <img class="member-avatar" src="/images/lab/camillesaucier.jpg" alt="Camille Saucier">
-    <div>
-      <div class="member-name">Camille Saucier, PhD</div>
-      <div class="member-role">Director</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-  
+  <div class="page-hero">
+    <p class="page-label">Research Group</p>
+    <h1>Health Communication and Digital Innovation Research Group</h1>
+    <p class="page-intro">
+      We study how communication interventions can improve decision-making in digital information environments through collaborative, interdisciplinary research. Our group brings together faculty, students, and collaborators working across communication, health, and digital technologies.
+    </p>
   </div>
 
-<p class="section-label">Master's Students</p>
-<div class="member-grid">
-
-  <a class="member-card" href="/people/praise-eyabi/">
-    <img class="member-avatar" src="/images/lab/praiseeyabi.jpg" alt="Praise Eyabi">
-    <div>
-      <div class="member-name">Praise Eyabi</div>
-      <div class="member-role">Master's Student</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
-
+<div class="group-photo">
+  <img
+    src="{{ '/images/research-lab-background.jpg' | relative_url }}"
+    alt="Health Communication and Digital Innovation Research Group">
 </div>
 
+<div class="page-section">
+  <p class="group-label">Current Projects</p>
+  <p class="page-copy">
+    Our group is currently working on projects examining misinformation, persuasive message effects in digital environments, and the use of emerging technologies in health communication.
+  </p>
 
-<p class="section-label">External Collaborators</p>
-<div class="member-grid">
-  
-  <a class="member-card" href="/people/jayveeritz-bautista/">
-    <img class="member-avatar" src="/images/lab/jayveeritzbautista.jpg" alt="Erika Oh">
-    <div>
-      <div class="member-name">Jayveeritz Bautista, PhD</div>
-      <div class="member-role">External Collaborator</div>
-      <div class="member-inst">University of California, Irvine</div>
+  <div class="page-grid">
+    <div class="page-card">
+      <h3>Addressing Contraception Misinformation</h3>
+      <p>
+        Examining how communication interventions can empower people to respond to contraception misinformation on social media.
+      </p>
     </div>
-  </a>
 
-  <a class="member-card" href="/people/heejung-cho/">
-    <img class="member-avatar" src="/images/lab/heejungcho.jpg" alt="Hee Jung Cho">
-    <div>
-      <div class="member-name">Hee Jung Cho</div>
-      <div class="member-role">External Collaborator</div>
-      <div class="member-inst">Michigan State University</div>
+        <div class="page-card">
+      <h3>Online Message Cues and Persuasion</h3>
+      <p>
+        Understanding how stigmatizing, relational, and cultural message cues influence responses to persuasive messages in digital environments.
+      </p>
     </div>
-  </a>
 
- <a class="member-card" href="/people/moonsun-jeon/">
-    <img class="member-avatar" src="/images/lab/moonsunjeon.JPG" alt="Moonsun (Sunny) Jeon">
-    <div>
-      <div class="member-name">Moonsun (Sunny) Jeon</div>
-      <div class="member-role">External Collaborator</div>
-      <div class="member-inst">Michigan State University</div>
+    <div class="page-card">
+      <h3>AI, Health, and Deepfake Detection</h3>
+      <p>
+        Developing communication interventions and conversational AI tools to promote health and improve resilience to misinformation, including AI-generated deepfakes.
+      </p>
     </div>
-  </a>
-  
-  <a class="member-card" href="/people/erika-oh/">
-    <img class="member-avatar" src="/images/lab/erikaoh.jpg" alt="Erika Oh">
-    <div>
-      <div class="member-name">Yoo Jung (Erika) Oh, PhD</div>
-      <div class="member-role">External Collaborator</div>
-      <div class="member-inst">Michigan State University</div>
-    </div>
-  </a>
 
-  <a class="member-card" href="/people/muhammad-rasul/">
-    <img class="member-avatar" src="/images/lab/muhammadrasul.jpg" alt="Muhammad Rasul">
-    <div>
-      <div class="member-name">Muhammad Ehab Rasul, PhD</div>
-      <div class="member-role">External Collaborator</div>
-      <div class="member-inst">National University of Singapore</div>
-    </div>
-  </a>
-
-  <a class="member-card" href="/people/haoning-xue/">
-    <img class="member-avatar" src="/images/lab/haoningxue.jpg" alt="Haoning Xue">
-    <div>
-      <div class="member-name">Haoning Xue, PhD</div>
-      <div class="member-role">External Collaborator</div>
-      <div class="member-inst">University of Utah</div>
-    </div>
-  </a>
-
-  <a class="member-card" href="/people/xudong-yu/">
-    <img class="member-avatar" src="/images/lab/xudongyu.jpg" alt="Xudong Yu">
-    <div>
-      <div class="member-name">Xudong Yu, PhD</div>
-      <div class="member-role">External Collaborator</div>
-      <div class="member-inst">University of North Dakota</div>
-    </div>
-  </a>
-  
-  <a class="member-card" href="/people/jingwen-zhang/">
-    <img class="member-avatar" src="/images/lab/jingwenzhang.jpg" alt="Jingwen Zhang">
-    <div>
-      <div class="member-name">Jingwen Zhang, PhD</div>
-      <div class="member-role">External Collaborator</div>
-      <div class="member-inst">University of California, Davis</div>
-    </div>
-  </a>
-
-  <a class="member-card" href="/people/xinyu-zhang/">
-    <img class="member-avatar" src="/images/lab/xinyuzhang.JPG" alt="Xinyu Zhang">
-    <div>
-      <div class="member-name">Xinyu Zhang</div>
-      <div class="member-role">External Collaborator</div>
-      <div class="member-inst">Michigan State University</div>
-    </div>
-  </a>
+  </div>
 </div>
 
+  <div class="page-section">
+    <h2>Research Team</h2>
+    <p class="group-label">Faculty</p>
+    <p class="page-copy">Faculty members lead the group's research program and mentor students across collaborative projects.</p>
+    <div class="group-grid">
+      <a class="group-card" href="/people/cj-calabrese/">
+        <img class="group-avatar" src="/images/lab/cjcalabrese.jpg" alt="CJ Calabrese">
+        <div class="group-meta">
+          <div class="group-name">CJ Calabrese, PhD</div>
+          <div class="group-role">Assistant Professor</div>
+          <div class="group-inst">Clemson University</div>
+        </div>
+      </a>
 
-<p class="section-label">Alumni</p>
-<div class="member-grid">
+      <a class="group-card" href="/people/erin-ash/">
+        <img class="group-avatar" src="/images/lab/erinash.jpg" alt="Erin Ash">
+        <div class="group-meta">
+          <div class="group-name">Erin Ash, PhD</div>
+          <div class="group-role">Associate Professor</div>
+          <div class="group-inst">Clemson University</div>
+        </div>
+      </a>
 
-  <a class="member-card" href="/people/emma-cox/">
-    <img class="member-avatar" src="/images/lab/emmacox.jpg" alt="Erika Oh">
-    <div>
-      <div class="member-name">Emma Cox</div>
-      <div class="member-role">Alumni</div>
-      <div class="member-inst">Cornell University</div>
+      <a class="group-card" href="/people/carlina-dirusso/">
+        <img class="group-avatar" src="/images/lab/carlinadirusso.jpg" alt="Carlina DiRusso">
+        <div class="group-meta">
+          <div class="group-name">Carlina DiRusso, PhD</div>
+          <div class="group-role">Assistant Professor</div>
+          <div class="group-inst">Clemson University</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/ashley-mckenzie/">
+        <img class="group-avatar" src="/images/lab/ashleymckenzie.jpg" alt="Ashley Hedrick McKenzie">
+        <div class="group-meta">
+          <div class="group-name">Ashley Hedrick McKenzie, PhD</div>
+          <div class="group-role">Assistant Professor</div>
+          <div class="group-inst">Clemson University</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/camille-saucier/">
+        <img class="group-avatar" src="/images/lab/camillesaucier.jpg" alt="Camille Saucier">
+        <div class="group-meta">
+          <div class="group-name">Camille Saucier, PhD</div>
+          <div class="group-role">Assistant Professor</div>
+          <div class="group-inst">Clemson University</div>
+        </div>
+      </a>
     </div>
-  </a>
+  </div>
 
-  <a class="member-card" href="/people/kamila-eshalieva/">
-    <img class="member-avatar" src="/images/lab/kamilaeshalieva.jpg" alt="Kamila Eshalieva">
-    <div>
-      <div class="member-name">Kamila Eshalieva</div>
-      <div class="member-role">Alumni</div>
-      <div class="member-inst">Clemson University</div>
+  <div class="page-section">
+    <p class="group-label">Graduate Students</p>
+    <p class="page-copy">Graduate students contribute to ongoing research while developing their own scholarly interests and professional skills.</p>
+    <div class="group-grid">
+      <a class="group-card" href="/people/praise-eyabi/">
+        <img class="group-avatar" src="/images/lab/praiseeyabi.jpg" alt="Praise Eyabi">
+        <div class="group-meta">
+          <div class="group-name">Praise Eyabi</div>
+          <div class="group-role">Master's Student</div>
+          <div class="group-inst">Clemson University</div>
+        </div>
+      </a>
     </div>
-  </a>
-  
-  <a class="member-card" href="/people/kylie-friday/">
-    <img class="member-avatar" src="/images/lab/kyliefriday.jpg" alt="Kylie Friday">
-    <div>
-      <div class="member-name">Kylie Friday</div>
-      <div class="member-role">Alumni</div>
-      <div class="member-inst">Clemson University</div>
-    </div>
-  </a>
+  </div>
 
+  <div class="page-section">
+    <p class="group-label">Research Collaborators</p>
+    <p class="page-copy">
+    Collaborators bring complementary expertise that strengthens interdisciplinary research across institutions.</p>
+    <div class="group-grid">
+      <a class="group-card" href="/people/jayveeritz-bautista/">
+        <img class="group-avatar" src="/images/lab/jayveeritzbautista.jpg" alt="Jayveeritz Bautista">
+        <div class="group-meta">
+          <div class="group-name">Jayveeritz Bautista, PhD</div>
+          <div class="group-role">Collaborator</div>
+          <div class="group-inst">University of California, Irvine</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/heejung-cho/">
+        <img class="group-avatar" src="/images/lab/heejungcho.jpg" alt="Hee Jung Cho">
+        <div class="group-meta">
+          <div class="group-name">Hee Jung Cho</div>
+          <div class="group-role">Collaborator</div>
+          <div class="group-inst">Michigan State University</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/emma-cox/">
+        <img class="group-avatar" src="/images/lab/emmacox.jpg" alt="Emma Cox">
+        <div class="group-meta">
+          <div class="group-name">Emma Cox</div>
+          <div class="group-role">Collaborator</div>
+          <div class="group-inst">Cornell University</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/moonsun-jeon/">
+        <img class="group-avatar" src="/images/lab/moonsunjeon.JPG" alt="Moonsun Jeon">
+        <div class="group-meta">
+          <div class="group-name">Moonsun (Sunny) Jeon</div>
+          <div class="group-role">Collaborator</div>
+          <div class="group-inst">Michigan State University</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/erika-oh/">
+        <img class="group-avatar" src="/images/lab/erikaoh.jpg" alt="Yoo Jung Erika Oh">
+        <div class="group-meta">
+          <div class="group-name">Yoo Jung (Erika) Oh, PhD</div>
+          <div class="group-role">Collaborator</div>
+          <div class="group-inst">Michigan State University</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/muhammad-rasul/">
+        <img class="group-avatar" src="/images/lab/muhammadrasul.jpg" alt="Muhammad Rasul">
+        <div class="group-meta">
+          <div class="group-name">Muhammad Ehab Rasul, PhD</div>
+          <div class="group-role">Collaborator</div>
+          <div class="group-inst">National University of Singapore</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/haoning-xue/">
+        <img class="group-avatar" src="/images/lab/haoningxue.jpg" alt="Haoning Xue">
+        <div class="group-meta">
+          <div class="group-name">Haoning Xue, PhD</div>
+          <div class="group-role">Collaborator</div>
+          <div class="group-inst">University of Utah</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/xudong-yu/">
+        <img class="group-avatar" src="/images/lab/xudongyu.jpg" alt="Xudong Yu">
+        <div class="group-meta">
+          <div class="group-name">Xudong Yu, PhD</div>
+          <div class="group-role">Collaborator</div>
+          <div class="group-inst">University of North Dakota</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/jingwen-zhang/">
+        <img class="group-avatar" src="/images/lab/jingwenzhang.jpg" alt="Jingwen Zhang">
+        <div class="group-meta">
+          <div class="group-name">Jingwen Zhang, PhD</div>
+          <div class="group-role">Collaborator</div>
+          <div class="group-inst">University of California, Davis</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/xinyu-zhang/">
+        <img class="group-avatar" src="/images/lab/xinyuzhang.JPG" alt="Xinyu Zhang">
+        <div class="group-meta">
+          <div class="group-name">Xinyu Zhang</div>
+          <div class="group-role">Collaborator</div>
+          <div class="group-inst">Michigan State University</div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="page-section">
+    <p class="group-label">Alumni</p>
+    <p class="page-copy">Alumni continue to build on their research through careers in academia, industry, and public service.</p>
+    <div class="group-grid">
+      <a class="group-card" href="/people/kamila-eshalieva/">
+        <img class="group-avatar" src="/images/lab/kamilaeshalieva.jpg" alt="Kamila Eshalieva">
+        <div class="group-meta">
+          <div class="group-name">Kamila Eshalieva</div>
+          <div class="group-role">Alumni</div>
+          <div class="group-inst">Clemson University</div>
+        </div>
+      </a>
+
+      <a class="group-card" href="/people/kylie-friday/">
+        <img class="group-avatar" src="/images/lab/kyliefriday.jpg" alt="Kylie Friday">
+        <div class="group-meta">
+          <div class="group-name">Kylie Friday</div>
+          <div class="group-role">Alumni</div>
+          <div class="group-inst">Clemson University</div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+<div class="page-section">
+  <h2>Join or Collaborate</h2>
+<p class="page-copy">
+  We welcome inquiries from prospective students and collaborators whose interests align with our research program.
+</p>
+<p>
+  <a class="page-button" href="/contact/">Get in Touch</a>
+</p>
 </div>
 
-
-
-
-
+</div>

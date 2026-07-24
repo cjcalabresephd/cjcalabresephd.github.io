@@ -1,32 +1,77 @@
 ---
 permalink: /
-title: "CJ Calabrese"
+title: "CJ Calabrese, PhD, MPH"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<div class="research-chips">
-  <span class="chip chip-orange">Health Communication</span>
-  <span class="chip chip-purple">Persuasive Technologies</span>
-  <span class="chip chip-blue">Behavior Change</span>
-  <span class="chip chip-yellow">Misinformation and Disinformation</span>
-  <span class="chip chip-green">Artificial Intelligence</span>
+<div class="page-hero">
+
+<p class="page-label">About</p>
+
+<h1>How can communication interventions improve decision-making in digital information environments?</h1>
+
+<p class="page-intro">
+My research examines how communication strategies shape health decision-making in digital environments. Through experiments, surveys, and computational methods, I develop and evaluate communication interventions that address misinformation and promote preventive health behaviors. As communication increasingly takes place in digital environments, understanding how people make health decisions has become an important challenge for communication researchers and public health practitioners.
+</p>
+
+<div class="page-button-row">
+  <a class="page-button" href="/research/">Research Program</a>
+  <a class="page-button" href="/publications/">Publications</a>
+  <a class="page-button" href="/research-group/">Research Group</a>
+  <a class="page-button" href="/cv/">CV</a>
 </div>
 
-**Christopher (CJ) Giacomo Yoshi Calabrese, PhD, MPH** is an Assistant Professor in the Department of Communication at Clemson University and a Faculty Scholar at the Clemson University School of Health Research. His research examines the effects and processes through which new media and online technologies influence human behaviors and decision-making. His current projects focus on leveraging online technologies for health promotion, designing persuasive messages to promote health behaviors and public policies, investigating social environmental impacts on health, and understanding key publics' perceptions surrounding health and science issues.
-
-Dr. Calabrese received the Early Career Award by the PHEHP section at the American Public Health Association in 2025. He is an active member of the American Public Health Association, Association for Education in Journalism and Mass Communication, International Communication Association, and National Communication Association. He currently serves as the PF&R Chair for the Communicating Science, Health, Environment and Risk Division at AEJMC and as the Treasurer for the Public Health Education and Health Promotion Section at APHA. 
+</div>
 
 
-<p class="section-label" style="margin-top:24px;">Published in</p>
-<div class="journal-strip">
-  <span class="pill">Nature Human Behaviour</span>
-  <span class="pill">Health Communication</span>
-  <span class="pill">Science Communication</span>
-  <span class="pill">New Media &amp; Society</span>
-  <span class="pill">Scientific Reports</span>
-  <span class="pill">PLOS One</span>
-  <span class="pill">Preventive Medicine</span>
+<div class="page-section">
+
+<h2>Research Contributions</h2>
+
+<div class="page-grid">
+
+<div class="page-card">
+  <h3>Improving Responses to Misinformation</h3>
+  <p>Identifying when correction strategies are effective and when alternative approaches, such as bypassing, produce better outcomes.</p>
+</div>
+
+<div class="page-card">
+  <h3>AI for Health Communication</h3>
+  <p>Examining how artificial intelligence can improve communication interventions while helping people navigate emerging digital technologies.</p>
+</div>
+
+<div class="page-card">
+  <h3>Communication for Public Health</h3>
+  <p>Designing persuasive communication that encourages preventive health behaviors and supports evidence-based public policy.</p>
+</div>
+
+</div>
+
+</div>
+
+<div class="page-section">
+
+<h2>Recent Publications</h2>
+
+<p class="page-copy">
+Recent publications are available on the <a href="/publications/">Publications</a> page.
+</p>
+
+</div>
+
+<div class="page-section">
+
+<h2>Research Group</h2>
+
+<p class="page-copy">
+I co-direct the <strong>Health Communication and Digital Innovation Research Group</strong> at Clemson University, where we study communication in digital environments and develop communication interventions that improve health decision-making.
+</p>
+
+<p>
+  <a class="page-button" href="/research-group/">Meet the Research Group</a>
+</p>
+
 </div>

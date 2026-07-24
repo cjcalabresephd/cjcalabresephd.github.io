@@ -2,7 +2,7 @@
 
 name: Xudong Yu, PhD
 lastname: Yu
-role: External Collaborator
+role: Collaborator
 affiliation: University of North Dakota
 image: /images/lab/xudongyu.jpg
 scholar: https://scholar.google.com/citations?user=hbiSMHYAAAAJ&hl=en
@@ -22,7 +22,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Xudong Yu, PhD</h1>
-        <span class="pcp-badge">External Collaborator</span>
+        <span class="pcp-badge">Collaborator</span>
       </div>
       <p class="pcp-affiliation">University of North Dakota</p>
       <div class="pcp-links">

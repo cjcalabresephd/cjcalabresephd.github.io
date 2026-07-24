@@ -2,7 +2,7 @@
 
 name: Kylie Friday
 lastname: Friday
-role: Masters Student
+role: Alumni
 affiliation: Clemson University
 image: /images/lab/kyliefriday.jpg
 website: https://www.linkedin.com/in/kylie-friday-b40bb4243/
@@ -19,7 +19,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Kylie Friday</h1>
-        <span class="pcp-badge">Masters Student</span>
+        <span class="pcp-badge">Alumni</span>
       </div>
       <p class="pcp-affiliation">Clemson University</p>
       <div class="pcp-links">
@@ -33,10 +33,10 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-Kylie Friday is an M.A. student in the Department of Communication at Clemson University. Her research focuses on health communication, with an emphasis on medical mistrust and tailored messaging for historically marginalized communities. Her thesis examines how narrative-based interventions can address medical mistrust among women.
+Kylie Friday is a recently graduate of the MA in Communication program at Clemson University. Her research focuses on health communication, with an emphasis on medical mistrust and tailored messaging for historically marginalized communities. Her thesis examines how narrative-based interventions can address medical mistrust among women.
     </p>
   </div>
-  
+
   <div class="pcp-section">
     <h2 class="pcp-section-title">Awards</h2>
    <div class="research-chips">
@@ -44,7 +44,7 @@ Kylie Friday is an M.A. student in the Department of Communication at Clemson Un
 <span class="chip chip-yellow"><i class="fas fa-award" style="color: #d4a017;"></i>2026 Outstanding Graduate Teaching Assistant of the Year, Department of Communication, Clemson University</span>
     </div>
   </div>
-  
+
   <div class="pcp-section">
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">

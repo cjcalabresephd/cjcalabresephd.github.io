@@ -2,7 +2,7 @@
 
 name: Jayveeritz Bautista, PhD
 lastname: Bautista
-role: External Collaborator
+role: Collaborator
 affiliation: University of California, Irvine
 image: /images/lab/jayveeritzbautista.jpg
 scholar: https://scholar.google.com/citations?user=xxcH5_8AAAAJ&hl=en
@@ -21,7 +21,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Jayveeritz Bautista, PhD</h1>
-        <span class="pcp-badge">External Collaborator</span>
+        <span class="pcp-badge">Collaborator</span>
       </div>
       <p class="pcp-affiliation">University of California, Irvine</p>
       <div class="pcp-links">

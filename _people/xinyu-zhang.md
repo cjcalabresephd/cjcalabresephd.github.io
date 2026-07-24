@@ -2,7 +2,7 @@
 
 name: Xinyu Zhang
 lastname: Zhang
-role: External Collaborator
+role: Collaborator
 affiliation: Michigan State University
 image: /images/lab/xinyuzhang.jpg
 scholar: https://scholar.google.com/citations?user=LxyHOE8AAAAJ&hl=en
@@ -21,7 +21,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Xinyu Zhang</h1>
-        <span class="pcp-badge">PhD Student</span>
+        <span class="pcp-badge">Collaborator</span>
       </div>
       <p class="pcp-affiliation">Michigan State University</p>
       <div class="pcp-links">
@@ -38,7 +38,7 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-     Xinyu Zhang is a Ph.D. student in the Department of Communication at Michigan State University. Her research explores how communication technologies influence self-identity and interpersonal relationships. She aims to explore the boundaries of mediated communication and promote individual well-being through technology-based interactions.  
+     Xinyu Zhang is a Ph.D. student in the Department of Communication at Michigan State University. Her research explores how communication technologies influence self-identity and interpersonal relationships. She aims to explore the boundaries of mediated communication and promote individual well-being through technology-based interactions.
     </p>
   </div>
 

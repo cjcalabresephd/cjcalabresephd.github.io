@@ -2,7 +2,7 @@
 
 name: Jingwen Zhang, PhD
 lastname: Zhang
-role: External Collaborator
+role: Collaborator
 affiliation: University of California, Davis
 image: /images/lab/jingwenzhang.jpg
 scholar: https://scholar.google.com/citations?user=J8oKsuIAAAAJ&hl=en
@@ -22,7 +22,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Jingwen Zhang, PhD</h1>
-        <span class="pcp-badge">External Collaborator</span>
+        <span class="pcp-badge">Collaborator</span>
       </div>
       <p class="pcp-affiliation">University of California, Davis</p>
       <div class="pcp-links">
@@ -39,7 +39,7 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-      Jingwen Zhang is an Associate Professor of the Department of Communication and an Affiliate Faculty of the Department of Public Health Sciences at the University of California Davis. She received her PhD in Communication from the Annenberg School for Communication at the University of Pennsylvania. Dr. Zhang’s research focuses on understanding, designing, and testing emerging persuasive technologies in shaping public attitudes and behaviors. She has conducted many clinical trials that demonstrated the efficacy and mechanisms of social media, online social networks, and mobile applications in changing health attitudes and behaviors. During the past five years, she has focused on understanding and developing conversational AI or chatbot in persuasion and health promotion. 
+      Jingwen Zhang is an Associate Professor of the Department of Communication and an Affiliate Faculty of the Department of Public Health Sciences at the University of California Davis. She received her PhD in Communication from the Annenberg School for Communication at the University of Pennsylvania. Dr. Zhang’s research focuses on understanding, designing, and testing emerging persuasive technologies in shaping public attitudes and behaviors. She has conducted many clinical trials that demonstrated the efficacy and mechanisms of social media, online social networks, and mobile applications in changing health attitudes and behaviors. During the past five years, she has focused on understanding and developing conversational AI or chatbot in persuasion and health promotion.
     </p>
   </div>
 

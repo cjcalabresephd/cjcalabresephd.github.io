@@ -2,7 +2,7 @@
 
 name: Haoning Xue, PhD
 lastname: Xue
-role: External Collaborator
+role: Collaborator
 affiliation: University of Utah
 image: /images/lab/haoningxue.jpg
 scholar: https://scholar.google.com/citations?user=A3-_bIgAAAAJ&hl=en
@@ -22,7 +22,7 @@ layout: single
     <div class="pcp-meta">
       <div class="pcp-name-row">
         <h1 class="pcp-name">Haoning Xue, PhD</h1>
-        <span class="pcp-badge">External Collaborator</span>
+        <span class="pcp-badge">Collaborator</span>
       </div>
       <p class="pcp-affiliation">University of Utah</p>
       <div class="pcp-links">
