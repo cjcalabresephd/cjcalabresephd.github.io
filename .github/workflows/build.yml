@@ -2,7 +2,7 @@ name: Build and Deploy Jekyll Site
 
 on:
   push:
-    branches: [ main ]       # your default branch
+    branches: [ master ]       # your default branch
   workflow_dispatch:         # allows manual run
 
 jobs:
