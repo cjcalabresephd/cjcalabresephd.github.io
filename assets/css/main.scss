@@ -13,7 +13,6 @@
 
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
     "include/mixins",
     "vendor/susy/susy",
@@ -145,11 +144,6 @@
   opacity: 0.7;
 }
 
-@media (prefers-color-scheme: dark) {
-  .lab-card:hover {
-    box-shadow: 0 8px 20px rgba(0,0,0,0.6);
-  }
-}
 
 /* ===============================
    RESEARCH CHIPS
@@ -198,37 +192,6 @@
   border-color: #ef9f27;
 }
 
-@media (prefers-color-scheme: dark) {
-  .chip-blue {
-    background: rgba(24, 95, 165, 0.2);
-    color: #7db3e8;
-    border-color: rgba(133, 183, 235, 0.4);
-  }
-
-  .chip-orange {
-    background: rgba(153, 60, 29, 0.2);
-    color: #f0997b;
-    border-color: rgba(240, 153, 123, 0.4);
-  }
-
-  .chip-green {
-    background: rgba(59, 109, 17, 0.2);
-    color: #97c459;
-    border-color: rgba(151, 196, 89, 0.4);
-  }
-
-  .chip-purple {
-    background: rgba(83, 74, 183, 0.2);
-    color: #afa9ec;
-    border-color: rgba(175, 169, 236, 0.4);
-  }
-
-  .chip-yellow {
-    background: rgba(133, 79, 11, 0.2);
-    color: #ef9f27;
-    border-color: rgba(239, 159, 39, 0.4);
-  }
-}
 
 /* ===============================
    PROFILE PAGE (individual member)
@@ -320,13 +283,6 @@
   border: 0.5px solid #85b7eb;
 }
 
-@media (prefers-color-scheme: dark) {
-  .pcp-badge {
-    background: rgba(24, 95, 165, 0.2);
-    color: #7db3e8;
-    border-color: rgba(133, 183, 235, 0.4);
-  }
-}
 
 .pcp-affiliation {
   font-size: 14px;
@@ -417,14 +373,6 @@
   color: var(--global-text-color);
   opacity: 0.7;
   font-style: italic;
-}
-
-@media (prefers-color-scheme: dark) {
-  .pub-card .pub-doi {
-    background: rgba(24, 95, 165, 0.2);
-    color: #7db3e8;
-    border-color: rgba(133, 183, 235, 0.4);
-  }
 }
 
 /* ===============================
