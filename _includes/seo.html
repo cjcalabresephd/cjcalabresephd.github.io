@@ -94,16 +94,12 @@
   "@id": "{{ seo_url }}/#person",
   "name": "{{ site.social.name | default: site.name | escape }}",
   "url": {{ seo_url | jsonify }},
-  "image": {{ site.url | append: site.baseurl | append: "/images/" | append: site.og_image | jsonify }},
+  "image": {{ seo_url | append: "/images/" | append: site.og_image | jsonify }},
   "jobTitle": "Assistant Professor of Communication",
   "worksFor": {
     "@type": "CollegeOrUniversity",
     "name": "Clemson University",
     "url": "https://www.clemson.edu"
-  },
-  "affiliation": {
-    "@type": "CollegeOrUniversity",
-    "name": "Clemson University"
   },
   "description": {{ site.description | jsonify }},
   "knowsAbout": [
@@ -134,9 +130,6 @@
 }
 </script>
 {% endif %}
-
-
-
 
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
@@ -169,7 +162,7 @@
 {% if site.og_image %}
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "Organization",
       "url": {{ seo_url | jsonify }},
       "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
@@ -182,7 +175,6 @@
 {% elsif page.header.overlay_image %}
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% endif %}
-
 
 {% unless page.url == "/" %}
 <script type="application/ld+json">
