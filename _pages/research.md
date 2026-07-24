@@ -2,6 +2,7 @@
 layout: single
 title: "Research"
 permalink: /research/
+description: "Research on how digital information environments and communication interventions shape decision-making and behavioral outcomes."
 author_profile: false
 ---
 

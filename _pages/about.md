@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "CJ Calabrese, PhD, MPH"
+title: "CJ Calabrese, PhD, MPH | Assistant Professor of Communication | Clemson University"
 author_profile: true
+description: "Assistant Professor of Communication at Clemson University studying health communication, digital media, misinformation, persuasion, and artificial intelligence."
 redirect_from:
   - /about/
   - /about.html

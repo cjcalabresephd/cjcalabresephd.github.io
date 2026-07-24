@@ -2,6 +2,7 @@
 layout: single
 title: "Publications"
 permalink: /publications/
+description: "Browse publications by CJ Calabrese on health communication, digital media, misinformation, persuasion, and artificial intelligence."
 author_profile: false
 ---
 

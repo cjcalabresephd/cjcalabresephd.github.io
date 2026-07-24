@@ -2,6 +2,7 @@
 layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
+description: "Curriculum vitae of CJ Calabrese, Assistant Professor of Communication at Clemson University."
 author_profile: false
 ---
 

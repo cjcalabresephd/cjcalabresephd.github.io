@@ -2,6 +2,7 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
+description: "Courses taught by CJ Calabrese in health communication, digital media, persuasion, and communication research methods."
 author_profile: false
 ---
 

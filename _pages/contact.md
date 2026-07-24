@@ -2,6 +2,7 @@
 layout: single
 title: "Contact"
 permalink: /contact/
+description: "Contact CJ Calabrese regarding research collaborations, graduate opportunities, media inquiries, or speaking engagements."
 author_profile: false
 ---
 <div class="contact-page">

@@ -2,6 +2,7 @@
 layout: single
 title: "Research Group"
 permalink: /research-group/
+description: "Learn about the Health Communication and Digital Innovation Research Group, including current members, research interests, and opportunities for collaboration."
 author_profile: false
 ---
 
