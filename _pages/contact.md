@@ -10,7 +10,7 @@ author_profile: false
   <h1>Contact</h1>
 
   <p class="page-intro">
-    I welcome inquiries from prospective graduate students, collaborators, and organizations interested in health communication, persuasion, digital media, misinformation, and artificial intelligence.
+    I welcome inquiries from prospective graduate students, collaborators, media, and organizations interested in my research on health communication, persuasion, digital media, misinformation, and artificial intelligence. If you'd like to discuss potential opportunities or learn more about my research, feel free to reach out.
   </p>
 </div>
 
@@ -48,7 +48,7 @@ author_profile: false
   <h2>Inquiries & Collaboration</h2>
 
   <p class="page-copy">
-    For graduate inquiries, collaboration opportunities, or media requests related to my research, please email me directly.
+    For graduate inquiries, research collaborations, or media requests, please email me directly.
   </p>
 
   <div class="page-button-row">

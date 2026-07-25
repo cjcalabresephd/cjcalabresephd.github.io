@@ -10,7 +10,7 @@ author_profile: false
   <h1>Curriculum Vitae</h1>
 
   <p class="page-intro">
-    The most current version of my curriculum vitae is available below. Please download the PDF for a complete and up-to-date record of my academic activities.
+    The most current version of my curriculum vitae is available below. Please download the PDF for a complete record of my research, teaching, service, and professional activities.
   </p>
 
   <div class="page-button-row">
@@ -26,7 +26,7 @@ author_profile: false
 
 <div class="page-section">
 
-  <h2>Academic Profile</h2>
+  <h2>Academic Snapshot</h2>
 
   <ul class="cv-list">
     <li>
@@ -46,7 +46,7 @@ author_profile: false
 
     <li>
       <strong>Research Areas</strong><br>
-      Health Communication, Persuasion, Digital Media, and Misinformation
+      Health Communication, Digital Media, Artificial Intelligence, Misinformation, and Persuasion
     </li>
   </ul>
 
@@ -55,7 +55,7 @@ author_profile: false
 <div class="page-section">
 
   <p class="page-copy">
-    For a complete record of publications, grants, teaching, service, awards, and professional activities, please download the full curriculum vitae above.
+    The full curriculum vitae provides a complete record of publications, grants, teaching, service, awards, and professional activities.
   </p>
 
   <p class="cv-updated">

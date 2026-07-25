@@ -10,7 +10,7 @@ author_profile: false
   <h1>Teaching</h1>
 
   <p class="page-intro">
-    I teach undergraduate and graduate courses in communication theory, persuasion, digital media, and health communication that integrate cutting-edge research with critical thinking and practical skill development. My goal is to empower students to apply communication theory and evidence-based research to address real-world challenges and make meaningful contributions to their communities and professions.
+    I teach undergraduate and graduate courses in communication theory, persuasion, digital media, and health communication that highlights current research with the development of critical thinking and practical skills. My goal is to empower students to apply communication theory and evidence-based communication strategies to address real-world challenges and make meaningful contributions to their communities and professions.
   </p>
 
 <p><div class="group-photo">
@@ -21,13 +21,13 @@ author_profile: false
 
 
   <p class="page-copy">
-    My teaching emphasizes active learning through discussion, collaborative problem solving, and project-based assignments that encourage students to apply communication theory to current societal challenges. Drawing from my research on health communication, digital media, and persuasion, I aim to help students think critically, communicate effectively, and develop practical skills they can apply beyond the classroom. I strive to cultivate an inclusive and supportive learning environment where students build the confidence and independence to engage thoughtfully with today's communication landscape.
+    My teaching emphasizes active learning through discussion, problem solving, and project-based assignments that encourage students to apply communication theory to current societal challenges. Drawing on my research in health communication, digital media, and persuasion, I help students think critically, communicate effectively, and develop practical skills they can apply beyond the classroom. I strive to cultivate an inclusive and supportive learning environment where students build the confidence and independence to become thoughtful and effective communicators.
   </p>
 </div>
 
 
 <div class="page-section">
-  <h2>Learning in Practice</h2>
+  <h2>Teaching Approach</h2>
 
   <div class="page-grid">
     <div class="page-card">
@@ -40,7 +40,7 @@ author_profile: false
     <div class="page-card">
       <h3>Developing Research Skills</h3>
       <p>
-        Students develop research questions, evaluate scholarly literature, and communicate evidence-based arguments through project-based assignments.
+        Students develop research questions, evaluate scholarly literature, and communicate evidence-informed arguments through project-based assignments.
       </p>
     </div>
 
@@ -119,7 +119,7 @@ author_profile: false
   <h2>Graduate Mentorship</h2>
 
   <p class="page-copy">
-    I mentor graduate students through thesis advising, committee service, and collaborative research projects focused on health communication, persuasion, and digital media. I work closely with students to help them develop independent research agendas while providing guidance in research, teaching, and professional development.
+    I mentor graduate students through thesis advising, committee service, and collaborative research projects in health communication, persuasion, and digital media. My goal is to help students develop independent research agendas while providing mentorship in research, teaching, and professional development.
   </p>
 
   <div class="page-button-row">

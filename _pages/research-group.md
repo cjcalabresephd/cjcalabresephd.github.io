@@ -12,7 +12,7 @@ author_profile: false
     <p class="page-label">Research Group</p>
     <h1>Health Communication and Digital Innovation Research Group</h1>
     <p class="page-intro">
-      We study how communication interventions can improve decision-making in digital information environments through collaborative, interdisciplinary research. Our group brings together faculty, students, and collaborators working across communication, health, and digital technologies.
+      We study how communication interventions can promote health in digital information environments through collaborative, interdisciplinary research. Our group brings together faculty, students, and collaborators whose research spans health, digital media, and emerging technologies.
     </p>
   </div>
 
@@ -244,7 +244,7 @@ author_profile: false
 <div class="page-section">
   <h2>Join or Collaborate</h2>
 <p class="page-copy">
-  We welcome inquiries from prospective students and collaborators whose interests align with our research program.
+  We welcome inquiries from prospective students and collaborators interested in our research. If you'd like to learn more about the group or discuss potential opportunities for collaboration, please don't hesitate to reach out.
 </p>
 <p>
   <a class="page-button" href="/contact/">Get in Touch</a>

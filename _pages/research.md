@@ -10,23 +10,12 @@ author_profile: false
 
 <p class="page-label">Research Program</p>
 
-<h1>How can communication interventions improve decision-making in digital information environments?</h1>
+<h1>How do communication interventions improve decision-making in digital information environments?</h1>
 
-<p class="page-intro">
-Communication increasingly occurs in digital environments where people encounter an overwhelming amount of information through social media, artificial intelligence, news organizations, and social networks. These environments create new opportunities for improving health communication, but they also make it more difficult for people to evaluate information and make informed decisions.
+<p class="page-intro">Much of the information people use to make health decisions comes from digital environments, including social media, artificial intelligence, and social networks. These environments create new opportunities for improving health communication but can also make it difficult for people to evaluate information and make informed decisions.
 
-My research examines how communication interventions can improve decision-making in these environments. Across this work, I develop and evaluate interventions that reduce the effects of misinformation, encourage preventive health behaviors, and improve public understanding of health and science.
-</p>
+My research examines how communication interventions improve decision-making in these environments. Across this work, I develop and evaluate interventions that reduce the effects of misinformation, encourage preventive health behaviors, and improve public understanding of health and science.
 
-</div>
-
-<div class="page-section">
-
-<h2>Conceptual Framework</h2>
-
-<p class="page-section-intro">
-My research examines how communication interventions, designed within digital information environments, influence decision-making and ultimately improve behavioral and societal outcomes. The framework below summarizes the organization of my research program.
-</p>
 
 <div class="research-framework">
 
@@ -55,46 +44,77 @@ My research examines how communication interventions, designed within digital in
   </div>
 
 </div>
+</p>
 
 
-</div>
 
 <div class="page-section">
 
-<h2>Digital Information Environments</h2>
+<h2>Featured Research</h2>
 
 <p class="page-copy">
-My research examines communication in digital environments where people encounter information through social media, artificial intelligence, and other online platforms. These settings shape what people see, what they trust, and how they make decisions.
+Selected projects focusing on communication interventions, digital information environments, and health decision-making.
+</p>
+
+<div class="page-grid">
+
+<div class="page-card">
+
+<p class="page-label">Science Communication</p>
+
+<h3>AI Chatbots for Addressing Health Misinformation</h3>
+
+<p>We examined whether AI chatbots can address contraceptive misinformation using bypassing and combined communication strategies. Combined strategies reduced misinformation beliefs, increased recommendation intentions, and elicited less reactance than the correction alone.</p><br>
+
+<p align="center">
+<a class="page-button" href="https://journals.sagepub.com/doi/10.1177/10755470261418533" target="_blank" rel="noopener">
+Read Publication
+</a>
 </p>
 
 </div>
 
-<div class="page-section">
 
-<h2>Communication Interventions</h2>
+<div class="page-card">
 
-<p class="page-copy">
-I develop and evaluate communication interventions that can improve how people respond to misinformation and other misleading information. My work focuses on strategies that help people make better decisions in complex digital environments.
+<p class="page-label">Preprint</p>
+
+<h3>Measuring Deepfake Literacy</h3>
+
+<p>This project develops and validates a deepfake literacy scale to measure public understanding of deepfakes beyond general AI knowledge. Across two studies, the scale showed strong reliability and validity and was associated with perceived knowledge, detection self-efficacy, and support for interventions to address deepfakes.</p><br>
+
+
+<p align="center">
+<a class="page-button" href="https://dx.doi.org/10.2139/ssrn.6517436" target="_blank" rel="noopener">
+Read Preprint
+</a>
 </p>
 
 </div>
 
-<div class="page-section">
 
-<h2>Decision-Making</h2>
+<div class="page-card">
 
-<p class="page-copy">
-A central concern in my research is how people interpret information and use it when making decisions about their health. I study how communication can support more informed judgments and reduce the effects of misinformation.
+<p class="page-label">Telematics and Informatics</p>
+
+<h3>Computational Analysis of Online Stigma</h3>
+
+<p>Using more than 1.2 million tweets, this study examines how anger and disgust primarily involved stigmatizing language toward the MSM community. These findings show how negative emotions expressed online may amplify stigma during public health crises.</p><br>
+
+
+<p align="center">
+<a class="page-button" href="https://doi.org/10.1016/j.tele.2025.102326" target="_blank" rel="noopener">
+View Publication
+</a>
 </p>
 
 </div>
 
-<div class="page-section">
-
-<h2>Behavioral and Societal Outcomes</h2>
+</div><br>
 
 <p class="page-copy">
-My long-term goal is to improve health behaviors and public policies by strengthening communication in digital information environments. I am especially interested in interventions that are practical, scalable, and effective in real-world settings.
+Explore my complete research program and publication record on the <a href="/publications/">Publications</a> page.
 </p>
 
 </div>
+

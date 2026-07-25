@@ -25,7 +25,7 @@ author:
   avatar: "profile.png"
   name: "CJ Calabrese"
   pronouns:
-  bio: "Communication interventions for health decision-making in digital environments."
+  bio: "Health communication interventions in digital environments."
   location:
   employer: "Clemson University"
   uri:
@@ -41,9 +41,10 @@ author:
   semantic:
   ssrn:
   pubmed:
-  researchgate:
+  researchgate: "https://www.researchgate.net/profile/Christopher-Calabrese"
   scopus:
   zotero:
+  faculty_profile: "https://www.clemson.edu/cbshs/about/profiles/index.html?userid=cgcalab"
 
   # Social media
   artstation:
