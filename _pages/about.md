@@ -31,31 +31,6 @@ I am an Assistant Professor in the Department of Communication at Clemson Univer
 
 <div class="page-section">
 
-<h2>Research Contributions</h2>
-
-<div class="page-grid">
-
-<div class="page-card">
-  <h3>Improving Responses to Misinformation</h3>
-  <p>Identifying communication strategies that reduce misinformation while supporting informed health decision-making.</p>
-</div>
-
-<div class="page-card">
-  <h3>AI for Health Communication</h3>
-  <p>Leveraging artificial intelligence to design communication interventions that promote health and support informed decision-making.</p>
-</div>
-
-<div class="page-card">
-  <h3>Communication for Public Health</h3>
-  <p>Applying evidence-based communication strategies to encourage preventive health behaviors and build support for public health policies</p>
-</div>
-
-</div>
-
-</div>
-
-<div class="page-section">
-
 <h2>Research Group</h2>
 
 <p class="page-copy">
