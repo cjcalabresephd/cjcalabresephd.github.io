@@ -27,18 +27,3 @@ I am an Assistant Professor in the Department of Communication at Clemson Univer
 </div>
 
 </div>
-
-
-<div class="page-section">
-
-<h2>Research Group</h2>
-
-<p class="page-copy">
-I co-direct the <strong>Health Communication and Digital Innovation Research Group</strong> at Clemson University, where faculty, students, and collaborators conduct interdisciplinary research spanning health communication, digital media, and emerging technologies.
-</p>
-
-<p>
-  <a class="page-button" href="/research-group/">Meet the Research Group</a>
-</p>
-
-</div>
