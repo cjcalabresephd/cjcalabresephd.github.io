@@ -10,7 +10,7 @@ author_profile: false
   <h1>Teaching</h1>
 
   <p class="page-intro">
-    I teach undergraduate and graduate courses in communication theory, persuasion, digital media, and health communication that highlights current research with the development of critical thinking and practical skills. My goal is to empower students to apply communication theory and evidence-based communication strategies to address real-world challenges and make meaningful contributions to their communities and professions.
+    I teach undergraduate and graduate courses in communication theory, persuasion, digital media, and health communication that highlight current research with the development of critical thinking and practical skills. My goal is to empower students to apply communication theory and evidence-based communication strategies to address real-world challenges and make meaningful contributions to their communities and professions.
   </p>
 
 <p><div class="group-photo">
@@ -27,40 +27,13 @@ author_profile: false
 
 
 <div class="page-section">
-  <h2>Teaching Approach</h2>
-
-  <div class="page-grid">
-    <div class="page-card">
-      <h3>Applying Communication Theory</h3>
-      <p>
-        Students actively apply communication theories through discussion, experiential activities, and reflection while exploring how theory explains everyday communication.
-      </p>
-    </div>
-
-    <div class="page-card">
-      <h3>Developing Research Skills</h3>
-      <p>
-        Students develop research questions, evaluate scholarly literature, and communicate evidence-informed arguments through project-based assignments.
-      </p>
-    </div>
-
-    <div class="page-card">
-      <h3>Connecting Research to Practice</h3>
-      <p>
-        Students explore how communication research addresses challenges in health communication and digital media while developing practical communication and problem-solving skills.
-      </p>
-    </div>
-  </div>
-</div>
-
-<div class="page-section">
   <h2>Teaching Areas</h2>
 
   <div class="page-grid">
     <div class="page-card">
-      <h3>Communication Theory</h3>
+      <h3>Communication Theory &amp; Research Methods</h3>
       <p>
-        Foundational communication theories and their application across interpersonal, group, organizational, intercultural, persuasive, and mass communication contexts.
+        Foundational communication theories and research methods, including qualitative and quantitative approaches, and their application across interpersonal, group, organizational, intercultural, persuasive, and mass communication contexts.
       </p>
     </div>
 
@@ -79,6 +52,8 @@ author_profile: false
     </div>
   </div>
 </div>
+
+
 <div class="page-section">
 
   <h2>Courses</h2>
