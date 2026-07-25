@@ -25,7 +25,6 @@ author_profile: false
   </p>
 </div>
 
-
 <div class="page-section">
   <h2>Teaching Areas</h2>
 
@@ -33,14 +32,14 @@ author_profile: false
     <div class="page-card">
       <h3>Communication Theory &amp; Research Methods</h3>
       <p>
-        Foundational communication theories and research methods, including qualitative and quantitative approaches, and their application across interpersonal, group, organizational, intercultural, persuasive, and mass communication contexts.
+        Foundational communication theories and research methods, including qualitative and quantitative approaches, and their application across communication contexts.
       </p>
     </div>
 
     <div class="page-card">
       <h3>Persuasion &amp; Health Communication</h3>
       <p>
-        Persuasion theory, message design, behavioral change, and communication strategies for promoting health and influencing attitudes and behavior.
+        Persuasion theory, message design, behavior change, and communication strategies for promoting health and influencing attitudes and behavior.
       </p>
     </div>
 
