@@ -189,6 +189,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - _private
 
 keep_files:
   - .git
