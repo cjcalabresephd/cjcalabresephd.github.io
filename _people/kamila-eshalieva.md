@@ -46,6 +46,16 @@ Kamila Eshalieva is a recent graduate of the MA in Communication program at Clem
     </div>
   </div>
 
+
+<div class="pcp-section">
+  <h2 class="pcp-section-title">Research Projects in the HCDI Group</h2>
+
+  <ul class="pcp-list">
+    <li>Linguistic Features and Relational Cues on Blame Attribution</li>
+  </ul>
+</div>
+
+
   <div class="pcp-section">
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">

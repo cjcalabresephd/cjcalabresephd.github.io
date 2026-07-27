@@ -45,6 +45,16 @@ Kylie Friday is a recently graduate of the MA in Communication program at Clemso
     </div>
   </div>
 
+
+<div class="pcp-section">
+  <h2 class="pcp-section-title">Research Projects in the HCDI Group</h2>
+
+  <ul class="pcp-list">
+    <li>Addressing Medical Mistrust through Narratives</li>
+  </ul>
+</div>
+
+
   <div class="pcp-section">
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">

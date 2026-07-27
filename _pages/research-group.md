@@ -30,9 +30,9 @@ author_profile: false
 
   <div class="page-grid">
     <div class="page-card">
-      <h3>Addressing Contraception Misinformation</h3>
+      <h3>Addressing Health Misinformation</h3>
       <p>
-        Examining how communication interventions can empower people to respond to contraception misinformation on social media.
+        Examining how communication interventions can empower people to respond to health misinformation, on social media.
       </p>
     </div>
 
@@ -44,9 +44,9 @@ author_profile: false
     </div>
 
     <div class="page-card">
-      <h3>AI, Health, and Deepfake Detection</h3>
+      <h3>AI, Health, and Deception Detection</h3>
       <p>
-        Developing communication interventions and conversational AI tools to promote health and improve resilience to misinformation, including AI-generated deepfakes.
+        Developing communication interventions and conversational AI tools to promote health and improve resilience to online deception, including AI-generated deepfakes.
       </p>
     </div>
 
@@ -221,6 +221,17 @@ author_profile: false
     <p class="group-label">Alumni</p>
     <p class="page-copy">Alumni continue to build on their research through careers in academia, industry, and public service.</p>
     <div class="group-grid">
+
+      <a class="group-card" href="/people/kimberly-brooks/">
+        <img class="group-avatar" src="/images/lab/kimberlybrooks.jpg" alt="Kimberly Brooks">
+        <div class="group-meta">
+          <div class="group-name">Kimberly Brooks</div>
+          <div class="group-role">Alumni</div>
+          <div class="group-inst">Clemson University</div>
+        </div>
+      </a>
+
+
       <a class="group-card" href="/people/kamila-eshalieva/">
         <img class="group-avatar" src="/images/lab/kamilaeshalieva.jpg" alt="Kamila Eshalieva">
         <div class="group-meta">
