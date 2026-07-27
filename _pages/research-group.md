@@ -32,7 +32,7 @@ author_profile: false
     <div class="page-card">
       <h3>Addressing Health Misinformation</h3>
       <p>
-        Examining how communication interventions can empower people to respond to health misinformation, on social media.
+        Examining how communication interventions can empower people to respond to health misinformation about topics such as contraception on social media.
       </p>
     </div>
 
