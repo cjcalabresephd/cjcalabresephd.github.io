@@ -848,3 +848,19 @@ body .page__footer a:hover {
   }
 }
 
+
+
+.pcp-list {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.pcp-list li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+  color: #555;
+}
+
+.pcp-list li:last-child {
+  margin-bottom: 0;
+}
