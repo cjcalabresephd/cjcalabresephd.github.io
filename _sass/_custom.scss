@@ -852,13 +852,17 @@ body .page__footer a:hover {
 
 .pcp-list {
   margin: 0;
-  padding-left: 1.25rem;
+  padding-left: 1.4rem;
 }
 
 .pcp-list li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.7rem;
   line-height: 1.7;
   color: #555;
+}
+
+.pcp-list li::marker {
+  color: #F56600; /* Clemson orange */
 }
 
 .pcp-list li:last-child {
