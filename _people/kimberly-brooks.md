@@ -35,14 +35,14 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-Kimberly Brooks is a recent graduate of the MA Communication program at Clemson and now works in social media analytics for PGA TOUR in Florida. Her research areas of interest lie in digital behavior and moral salience. She was awarded the 2026 Outstanding Communication Graduate Student in the Department of Communication.
+Kimberly Brooks is a recent graduate of Clemson University's MA program in Communication and now works in social media analytics for the PGA TOUR in Florida. Her research interests include digital behavior and moral salience. She received the 2026 Outstanding Communication Graduate Student Award from the Department of Communication.
     </p>
   </div>
 
   <div class="pcp-section">
     <h2 class="pcp-section-title">Awards</h2>
    <div class="research-chips">
-<span class="chip chip-yellow"><i class="fas fa-award" style="color: #d4a017;"></i>2026 Outstanding Communication Graduate Student, Department of Communication, Clemson University</span>
+<span class="chip chip-yellow"><i class="fas fa-award" style="color: #d4a017;"></i>2026 Outstanding Communication Graduate Student Award, Department of Communication, Clemson University</span>
     </div>
   </div>
 
@@ -51,6 +51,9 @@ Kimberly Brooks is a recent graduate of the MA Communication program at Clemson 
 
   <ul class="pcp-list">
     <li>TikTok Influencer Motivations for Creating Birth Control-Related Content</li>
+        <ul>
+      <li>PI: Dr. Ashley Hedrick McKenzie</li>
+    </ul>
   </ul>
 </div>
 

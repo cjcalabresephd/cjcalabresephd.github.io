@@ -51,6 +51,9 @@ Kylie Friday is a recently graduate of the MA in Communication program at Clemso
 
   <ul class="pcp-list">
     <li>Addressing Medical Mistrust through Narratives</li>
+        <ul>
+      <li>PI: Dr. CJ Calabrese</li>
+    </ul>
   </ul>
 </div>
 

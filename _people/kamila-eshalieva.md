@@ -52,6 +52,9 @@ Kamila Eshalieva is a recent graduate of the MA in Communication program at Clem
 
   <ul class="pcp-list">
     <li>Linguistic Features and Relational Cues on Blame Attribution</li>
+        <ul>
+      <li>PI: Dr. CJ Calabrese</li>
+    </ul>
   </ul>
 </div>
 
