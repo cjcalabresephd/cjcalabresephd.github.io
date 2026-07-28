@@ -5,7 +5,7 @@ lastname: Eyabi
 role: Masters Student
 affiliation: Clemson University
 image: /images/lab/praiseeyabi.jpg
-website: 
+website:
 alumni: false
 layout: single
 
@@ -33,10 +33,10 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-Here
+Praise Eyabi is a second-year graduate student in the MA in Communication program at Clemson University.
       </p>
   </div>
-  
+
   <div class="pcp-section">
     <h2 class="pcp-section-title">Research Areas</h2>
     <div class="research-chips">

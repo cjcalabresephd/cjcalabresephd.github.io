@@ -35,7 +35,7 @@ layout: single
   <div class="pcp-section">
     <h2 class="pcp-section-title">Bio</h2>
     <p class="pcp-bio">
-Kamila Eshalieva is a recent graduate of the MA in Communication program at Clemson University. Originally from Kyrgyzstan, she has reported on human rights issues and worked with a nonprofit organization focused on strengthening investigative journalism in Eastern Europe, the Caucasus, and Central Asia. Kamila's research centers on gender-based violence. Her master’s thesis examines technology-facilitated gender-based violence (TFGBV) experienced by women journalists.
+Kamila Eshalieva is a recent graduate of the MA in Communication program at Clemson University. Originally from Kyrgyzstan, she has reported on human rights issues and worked with a nonprofit organization that works to strengthen investigative journalism in Eastern Europe, the Caucasus, and Central Asia. Kamila's research focuses on gender-based violence. Her master’s thesis examines the experiences of women journalists who face technology-facilitated gender-based violence (TFGBV).
     </p>
   </div>
 

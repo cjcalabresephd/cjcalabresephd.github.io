@@ -46,7 +46,7 @@ author_profile: false
     <div class="page-card">
       <h3>AI, Health, and Deception Detection</h3>
       <p>
-        Developing communication interventions and conversational AI tools to promote health and improve resilience to online deception, including AI-generated deepfakes.
+        Developing communication interventions and conversational AI tools to promote health and strengthen resilience to online deception, including AI-generated deepfakes.
       </p>
     </div>
 
