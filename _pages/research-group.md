@@ -249,6 +249,15 @@ author_profile: false
           <div class="group-inst">Clemson University</div>
         </div>
       </a>
+
+          <a class="group-card" href="/people/geovana-saraiva/">
+        <img class="group-avatar" src="/images/lab/geovanasaraiva.jpg" alt="Geovana Saraiva">
+        <div class="group-meta">
+          <div class="group-name">Geovana Saraiva</div>
+          <div class="group-role">Alumni</div>
+          <div class="group-inst">Clemson University</div>
+        </div>
+      </a>
     </div>
   </div>
 
