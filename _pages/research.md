@@ -12,7 +12,7 @@ author_profile: false
 
 <h1>How do communication interventions improve decision-making in digital information environments?</h1>
 
-<p class="page-intro">Much of the information people use to make health decisions comes from digital environments, including social media, artificial intelligence, and social networks. These environments create new opportunities for improving health communication but can also make it difficult for people to evaluate information and make informed decisions.
+<p class="page-intro">Much of the information people use to make health decisions comes from digital environments, including social media, artificial intelligence, and social networks. These environments create new opportunities for improving health communication but can also make it difficult for people to evaluate information and make informed decisions.<br><br>
 
 My research examines the processes through which communication interventions influence behavior and decision-making in these environments. Grounded in theories of persuasion, social influence, and media effects, I develop and evaluate interventions that mitigate the effects of misinformation, encourage preventive health behaviors, and improve public understanding of health and science.
 
@@ -57,8 +57,8 @@ My research examines the processes through which communication interventions inf
   <ul>
     <li><strong>Experiments:</strong> Testing the causal effects of message features and communication interventions.</li>
     <li><strong>Surveys:</strong> Examining predictors of health behaviors across populations and contexts.</li>
-    <li><strong>Computational methods:</strong> Analyzing large-scale online behavioral data and social media discussions.</li>
-    <li><strong>Measurement and evidence synthesis:</strong> Developing measures and integrating findings through systematic review and meta-analysis.</li>
+    <li><strong>Computational Methods:</strong> Analyzing large-scale online behavioral data and social media discussions.</li>
+    <li><strong>Measurement and Evidence Synthesis:</strong> Developing measures and integrating findings through systematic review and meta-analysis.</li>
   </ul>
 </div>
 
@@ -68,7 +68,7 @@ My research examines the processes through which communication interventions inf
 <h2>Featured Research</h2>
 
 <p class="page-copy">
-Selected projects illustrating theory-driven communication research, methodological contributions, and health-related decision-making.
+Selected projects on theory-driven communication research, methodological contributions, and health-related decision-making.
 </p>
 
 <div class="page-grid">
