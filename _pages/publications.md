@@ -10,11 +10,14 @@ author_profile: false
 <div class="page-hero">
   <p class="page-label">Research Output</p>
   <h1>Publications</h1>
-  <div class="page-intro">
-    My research reflects a theory-driven research program examining the processes through which communication interventions influence human behavior and decision-making in digital information environments. Drawing on theories of persuasion, social influence, and media effects, this work uses experiments, surveys, and computational methods across health and science contexts.
+
+  <p class="page-intro">
+    My research reflects a theory-driven research program examining the processes through which communication interventions influence human behavior and decision-making in digital information environments. Drawing on theories of persuasion, social influence, and media effects, this work uses experiments, surveys, and computational methods across health and science contexts.</p>
+
+<p class="page-intro">
 
     Below is a chronological list of peer-reviewed publications.
-  </div>
+  </p>
 
 </div>
 

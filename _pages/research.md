@@ -12,9 +12,9 @@ author_profile: false
 
 <h1>How do communication interventions improve decision-making in digital information environments?</h1>
 
-<p class="page-intro">Much of the information people use to make health decisions comes from digital environments, including social media, artificial intelligence, and social networks. These environments create new opportunities for improving health communication but can also make it difficult for people to evaluate information and make informed decisions.<br><br>
+<p class="page-intro">Much of the information people use to make health decisions comes from digital environments, including social media, artificial intelligence, and social networks. These environments create new opportunities for improving health communication but can also make it difficult for people to evaluate information and make informed decisions.</p>
 
-My research examines the processes through which communication interventions influence behavior and decision-making in these environments. Grounded in theories of persuasion, social influence, and media effects, I develop and evaluate interventions that mitigate the effects of misinformation, encourage preventive health behaviors, and improve public understanding of health and science.
+<p class="page-intro">My research examines the processes through which communication interventions influence behavior and decision-making in these environments. Grounded in theories of persuasion, social influence, and media effects, I develop and evaluate interventions that mitigate the effects of misinformation, encourage preventive health behaviors, and improve public understanding of health and science.</p>
 
 
 <div class="research-framework">
