@@ -44,7 +44,6 @@ author_profile: false
   </div>
 
 </div>
-</p>
 
 
 <div class="page-section">
