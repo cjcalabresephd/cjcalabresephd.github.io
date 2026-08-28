@@ -15,7 +15,7 @@ redirect_from:
 <h1>How do communication interventions improve decision-making in digital information environments?</h1>
 
 <p class="page-intro">
-I am an Assistant Professor in the Department of Communication at Clemson University and a Faculty Scholar with the Clemson University School of Health Research. My research examines how communication interventions improve decision-making in digital information environments. Through experiments, surveys, and computational methods, I develop and evaluate interventions that address misinformation, promote preventive health behaviors, and improve public understanding of health and science.
+I am an Assistant Professor in the Department of Communication at Clemson University and a Faculty Scholar with the Clemson University School of Health Research. My research examines the processes through which communication interventions influence human behavior and decision-making in digital information environments. Through experiments, surveys, and computational methods, I develop and evaluate interventions that address misinformation, promote preventive health behaviors, and improve public understanding of health and science.
 </p>
 
 <div class="page-button-row">

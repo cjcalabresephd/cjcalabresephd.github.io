@@ -11,7 +11,9 @@ author_profile: false
   <p class="page-label">Research Output</p>
   <h1>Publications</h1>
   <div class="page-intro">
-    My research examines communication interventions, digital information environments, and health decision-making. Below is a selected list of peer-reviewed publications.
+    My research reflects a theory-driven research program examining the processes through which communication interventions influence human behavior and decision-making in digital information environments. Drawing on theories of persuasion, social influence, and media effects, this work uses experiments, surveys, and computational methods across health and science contexts.
+
+    Below is a chronological list of peer-reviewed publications.
   </div>
 
 </div>

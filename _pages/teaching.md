@@ -10,7 +10,7 @@ author_profile: false
   <h1>Teaching</h1>
 
   <p class="page-intro">
-    I teach undergraduate and graduate courses in communication theory, persuasion, digital media, and health communication that highlight current research with the development of critical thinking and practical skills. My goal is to empower students to apply communication theory and evidence-based communication strategies to address real-world challenges and make meaningful contributions to their communities and professions.
+   I teach undergraduate and graduate courses in communication theory, research methods, persuasion, digital media, and health communication. My courses connect current research with the development of critical thinking and practical skills, helping students apply communication theory and evidence-based communication strategies to real-world challenges in their communities and professions.
   </p>
 
 <p><div class="group-photo">
@@ -21,7 +21,7 @@ author_profile: false
 
 
   <p class="page-copy">
-    My teaching emphasizes active learning through discussion, problem solving, and project-based assignments that encourage students to apply communication theory to current societal challenges. Drawing on my research in health communication, digital media, and persuasion, I help students think critically, communicate effectively, and develop practical skills they can apply beyond the classroom. I strive to cultivate an inclusive and supportive learning environment where students build the confidence and independence to become thoughtful and effective communicators.
+    My teaching emphasizes active learning through discussion, problem-solving, and project-based assignments that encourage students to apply communication theory and research methods to contemporary societal challenges. Drawing on my research in health communication, digital media, and persuasion, I help students think critically, communicate effectively, and develop practical skills they can apply beyond the classroom. I strive to cultivate an inclusive and supportive learning environment where students build the confidence and independence to become thoughtful and effective communicators.
   </p>
 </div>
 
@@ -32,7 +32,7 @@ author_profile: false
     <div class="page-card">
       <h3>Communication Theory &amp; Research Methods</h3>
       <p>
-        Foundational communication theories and research methods, including qualitative and quantitative approaches, and their application across communication contexts.
+        Foundational communication theories and research methods, including qualitative, quantitative, and computational approaches, and their application across communication contexts.
       </p>
     </div>
 
@@ -55,7 +55,7 @@ author_profile: false
 
 <div class="page-section">
 
-  <h2>Courses</h2>
+  <h2>Courses Taught at Clemson</h2>
 
   <div class="teaching-courses">
 
@@ -76,7 +76,7 @@ author_profile: false
 
       <ul class="course-list">
         <li>Communication Theory</li>
-        <li>Communication Inquiry</li>
+        <li>Communication Inquiry (Research Methods)</li>
         <li>Persuasion</li>
         <li>Communication Across Media Platforms</li>
         <li>Media Communication</li>
@@ -93,7 +93,7 @@ author_profile: false
   <h2>Graduate Mentorship</h2>
 
   <p class="page-copy">
-    I mentor graduate students through thesis advising, committee service, and collaborative research projects in health communication, persuasion, and digital media. My goal is to help students develop independent research agendas while providing mentorship in research, teaching, and professional development.
+    I mentor graduate students through thesis advising, committee service, and collaborative research in health communication, persuasion, and digital media. I help students develop research questions, connect theory to research design, and build skills in empirical inquiry and scholarly communication. My goal is to support students as they develop independent research agendas and professional identities.
   </p>
 
   <div class="page-button-row">
