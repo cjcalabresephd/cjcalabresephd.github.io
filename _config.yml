@@ -12,7 +12,7 @@ site_theme: "default" # The available themes options are "default", "air", "sunr
 title: "CJ Calabrese"
 title_separator: " | "
 name: &name "CJ Calabrese"
-description: &description "CJ Calabrese is an Assistant Professor of Communication at Clemson University whose research focuses on health communication, persuasive technologies, misinformation, artificial intelligence, and behavior change."
+description: &description "CJ Calabrese is an Assistant Professor of Communication at Clemson University whose research focuses on communication theory, digital information environments, and quantitative and computational methods."
 url: "https://cjcalabrese.com"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "cjcalabresephd/cjcalabresephd.github.io"
@@ -131,7 +131,7 @@ facebook:
   app_id:
   publisher:
 og_image: "profile.png"
-og_description: "CJ Calabrese is an Assistant Professor of Communication at Clemson University whose research focuses on health communication, persuasive technologies, misinformation, artificial intelligence, and behavior change."
+og_description: "CJ Calabrese is an Assistant Professor of Communication at Clemson University whose research focuses on communication theory, digital information environments, and quantitative and computational methods."
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
