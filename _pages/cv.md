@@ -46,7 +46,12 @@ author_profile: false
 
     <li>
       <strong>Research Areas</strong><br>
-      Health Communication, Digital Media, Artificial Intelligence, Misinformation, and Persuasion
+      Communication Theory, Digital Communication, Health and Science Communication, Misinformation, and Artificial Intelligence
+    </li>
+
+    <li>
+      <strong>Methods</strong><br>
+      Experiments, Surveys, Computational Methods, and Network Analysis
     </li>
   </ul>
 
@@ -59,7 +64,7 @@ author_profile: false
   </p>
 
   <p class="cv-updated">
-    Last updated: July 2026
+    Last updated: August 2026
   </p>
 
 </div>
